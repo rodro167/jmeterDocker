@@ -1,0 +1,131 @@
+2021-05-26 22:12:16,602 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-05-26 22:12:16,619 INFO o.a.j.JMeter: Loading user properties from: /home/jmeter/apache-jmeter-5.2.1/bin/user.properties
+2021-05-26 22:12:16,620 INFO o.a.j.JMeter: Loading system properties from: /home/jmeter/apache-jmeter-5.2.1/bin/system.properties
+2021-05-26 22:12:16,620 INFO o.a.j.JMeter: Setting JMeter property: threads=20
+2021-05-26 22:12:16,621 INFO o.a.j.JMeter: Setting JMeter property: rampup=20
+2021-05-26 22:12:16,621 INFO o.a.j.JMeter: Setting JMeter property: duration=240
+2021-05-26 22:12:16,622 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2021-05-26 22:12:16,622 INFO o.a.j.JMeter: Version 5.2.1
+2021-05-26 22:12:16,622 INFO o.a.j.JMeter: java.version=1.8.0_275
+2021-05-26 22:12:16,622 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-05-26 22:12:16,622 INFO o.a.j.JMeter: os.name=Linux
+2021-05-26 22:12:16,622 INFO o.a.j.JMeter: os.arch=amd64
+2021-05-26 22:12:16,622 INFO o.a.j.JMeter: os.version=5.8.0-50-generic
+2021-05-26 22:12:16,623 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-05-26 22:12:16,623 INFO o.a.j.JMeter: java.awt.headless=true
+2021-05-26 22:12:16,623 INFO o.a.j.JMeter: Max memory     =578813952
+2021-05-26 22:12:16,623 INFO o.a.j.JMeter: Available Processors =8
+2021-05-26 22:12:16,628 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-05-26 22:12:16,628 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-05-26 22:12:16,628 INFO o.a.j.JMeter: JMeterHome=/home/jmeter/apache-jmeter-5.2.1
+2021-05-26 22:12:16,628 INFO o.a.j.JMeter: user.dir  =/home/rodrigo/Personal/JMeterDocker/JMeter_Docker
+2021-05-26 22:12:16,628 INFO o.a.j.JMeter: PWD       =/home/rodrigo/Personal/JMeterDocker/JMeter_Docker
+2021-05-26 22:12:16,629 INFO o.a.j.JMeter: IP: 172.17.0.2 Name: 2f0f0f0030dc FullName: 2f0f0f0030dc
+2021-05-26 22:12:16,633 INFO o.a.j.s.FileServer: Default base='/home/rodrigo/Personal/JMeterDocker/JMeter_Docker'
+2021-05-26 22:12:16,635 INFO o.a.j.s.FileServer: Set new base='/home/rodrigo/Personal/JMeterDocker/JMeter_Docker/test_restMovies'
+2021-05-26 22:12:16,757 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-05-26 22:12:16,761 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-05-26 22:12:16,766 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-05-26 22:12:16,773 INFO o.a.j.s.SaveService: Loading file: test_restMovies/restMovies.jmx
+2021-05-26 22:12:16,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-05-26 22:12:16,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-05-26 22:12:16,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-05-26 22:12:16,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-05-26 22:12:16,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-05-26 22:12:16,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-05-26 22:12:16,849 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-05-26 22:12:16,854 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-05-26 22:12:16,855 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-05-26 22:12:16,855 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-05-26 22:12:16,859 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-05-26 22:12:16,859 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-05-26 22:12:17,132 INFO o.a.j.JMeter: Running test (1622067137132)
+2021-05-26 22:12:17,165 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Requests
+2021-05-26 22:12:17,165 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group Requests.
+2021-05-26 22:12:17,165 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-05-26 22:12:17,165 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=20 ramp-up=0 delayedStart=true
+2021-05-26 22:12:17,166 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2021-05-26 22:12:17,166 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-05-26 22:12:17,173 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-5
+2021-05-26 22:12:17,173 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-2
+2021-05-26 22:12:17,174 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-1
+2021-05-26 22:12:17,174 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-4
+2021-05-26 22:12:17,174 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-3
+2021-05-26 22:12:17,175 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-7
+2021-05-26 22:12:17,177 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-6
+2021-05-26 22:12:17,178 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-8
+2021-05-26 22:12:17,178 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-9
+2021-05-26 22:12:17,179 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-10
+2021-05-26 22:12:17,180 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-11
+2021-05-26 22:12:17,180 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-12
+2021-05-26 22:12:17,181 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-13
+2021-05-26 22:12:17,183 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-14
+2021-05-26 22:12:17,184 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-15
+2021-05-26 22:12:17,184 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-16
+2021-05-26 22:12:17,185 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-17
+2021-05-26 22:12:17,185 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-18
+2021-05-26 22:12:17,186 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-19
+2021-05-26 22:12:17,186 INFO o.a.j.t.JMeterThread: Thread started: Requests 1-20
+2021-05-26 22:12:22,219 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = 2f0f0f0030dc
+2021-05-26 22:12:22,225 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2021-05-26 22:12:22,227 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-05-26 22:12:22,227 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-05-26 22:12:22,227 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-05-26 22:12:22,227 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-05-26 22:12:22,947 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2021-05-26 22:12:22,960 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2021-05-26 22:12:22,961 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2021-05-26 22:12:23,257 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2021-05-26 22:12:23,261 INFO o.a.j.u.SSLManager: KeyStore created OK
+2021-05-26 22:12:23,261 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2021-05-26 22:12:31,173 INFO o.a.j.r.Summariser: summary +      8 in 00:00:14 =    0.6/s Avg:  6379 Min:  4507 Max:  8835 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-05-26 22:13:00,637 INFO o.a.j.r.Summariser: summary +     41 in 00:00:29 =    1.4/s Avg:  8510 Min:  1706 Max: 30664 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-05-26 22:13:00,638 INFO o.a.j.r.Summariser: summary =     49 in 00:00:44 =    1.1/s Avg:  8162 Min:  1706 Max: 30664 Err:     0 (0.00%)
+2021-05-26 22:13:30,448 INFO o.a.j.r.Summariser: summary +     36 in 00:00:30 =    1.2/s Avg:  9164 Min:  1772 Max: 35105 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-05-26 22:13:30,450 INFO o.a.j.r.Summariser: summary =     85 in 00:01:13 =    1.2/s Avg:  8586 Min:  1706 Max: 35105 Err:     0 (0.00%)
+2021-05-26 22:14:00,057 INFO o.a.j.r.Summariser: summary +     53 in 00:00:30 =    1.8/s Avg:  8916 Min:  1732 Max: 69715 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-05-26 22:14:00,058 INFO o.a.j.r.Summariser: summary =    138 in 00:01:43 =    1.3/s Avg:  8713 Min:  1706 Max: 69715 Err:     0 (0.00%)
+2021-05-26 22:14:31,110 INFO o.a.j.r.Summariser: summary +     38 in 00:00:31 =    1.2/s Avg: 10447 Min:  1880 Max: 82609 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-05-26 22:14:31,111 INFO o.a.j.r.Summariser: summary =    176 in 00:02:14 =    1.3/s Avg:  9087 Min:  1706 Max: 82609 Err:     0 (0.00%)
+2021-05-26 22:15:00,201 INFO o.a.j.r.Summariser: summary +     39 in 00:00:29 =    1.3/s Avg:  9890 Min:  2478 Max: 42861 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-05-26 22:15:00,202 INFO o.a.j.r.Summariser: summary =    215 in 00:02:43 =    1.3/s Avg:  9233 Min:  1706 Max: 82609 Err:     0 (0.00%)
+2021-05-26 22:15:30,582 INFO o.a.j.r.Summariser: summary +     49 in 00:00:30 =    1.6/s Avg:  7858 Min:  2257 Max: 41643 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-05-26 22:15:30,582 INFO o.a.j.r.Summariser: summary =    264 in 00:03:13 =    1.4/s Avg:  8978 Min:  1706 Max: 82609 Err:     0 (0.00%)
+2021-05-26 22:16:00,305 INFO o.a.j.r.Summariser: summary +     52 in 00:00:30 =    1.7/s Avg:  7152 Min:  2223 Max: 27692 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-05-26 22:16:00,306 INFO o.a.j.r.Summariser: summary =    316 in 00:03:43 =    1.4/s Avg:  8677 Min:  1706 Max: 82609 Err:     0 (0.00%)
+2021-05-26 22:16:12,414 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-17
+2021-05-26 22:16:12,469 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-1
+2021-05-26 22:16:12,531 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-3
+2021-05-26 22:16:13,800 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-16
+2021-05-26 22:16:15,509 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-6
+2021-05-26 22:16:15,712 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-19
+2021-05-26 22:16:16,397 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-13
+2021-05-26 22:16:17,476 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-2
+2021-05-26 22:16:17,477 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-2
+2021-05-26 22:16:17,507 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-5
+2021-05-26 22:16:17,508 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-5
+2021-05-26 22:16:17,555 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-12
+2021-05-26 22:16:17,555 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-12
+2021-05-26 22:16:17,627 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-7
+2021-05-26 22:16:17,628 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-7
+2021-05-26 22:16:17,724 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-18
+2021-05-26 22:16:17,725 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-18
+2021-05-26 22:16:18,039 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-9
+2021-05-26 22:16:18,040 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-9
+2021-05-26 22:16:18,325 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-20
+2021-05-26 22:16:18,325 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-10
+2021-05-26 22:16:18,326 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-20
+2021-05-26 22:16:18,326 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-10
+2021-05-26 22:16:20,838 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-14
+2021-05-26 22:16:20,839 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-14
+2021-05-26 22:16:21,159 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-11
+2021-05-26 22:16:21,160 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-11
+2021-05-26 22:16:21,337 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-8
+2021-05-26 22:16:21,338 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-8
+2021-05-26 22:16:27,818 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-15
+2021-05-26 22:16:27,819 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-15
+2021-05-26 22:16:29,020 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Requests 1-4
+2021-05-26 22:16:29,021 INFO o.a.j.t.JMeterThread: Thread finished: Requests 1-4
+2021-05-26 22:16:29,023 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-05-26 22:16:29,025 INFO o.a.j.r.Summariser: summary +     37 in 00:00:29 =    1.3/s Avg:  8304 Min:  2639 Max: 23177 Err:     0 (0.00%) Active: 0 Started: 20 Finished: 20
+2021-05-26 22:16:29,026 INFO o.a.j.r.Summariser: summary =    353 in 00:04:12 =    1.4/s Avg:  8638 Min:  1706 Max: 82609 Err:     0 (0.00%)

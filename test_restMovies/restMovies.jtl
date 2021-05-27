@@ -1,0 +1,1060 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1622067142327,4507,Morse_(Buenos_Aires),200,OK,Requests 1-19,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),626,0,381
+1622067142327,626,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-19,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),626,0,381
+1622067142955,3879,Morse_(Buenos_Aires)-1,200,OK,Requests 1-19,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2815,0,1075
+1622067142332,5726,Esquimal,200,OK,Requests 1-5,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,591,0,361
+1622067142332,599,Esquimal-0,301,TLS Redirect,Requests 1-5,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,591,0,361
+1622067142949,5109,Esquimal-1,200,OK,Requests 1-5,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2171,0,1085
+1622067142331,5936,Esquimal,200,OK,Requests 1-10,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,599,0,362
+1622067142331,601,Esquimal-0,301,TLS Redirect,Requests 1-10,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,599,0,362
+1622067142941,5326,Esquimal-1,200,OK,Requests 1-10,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3645,0,2340
+1622067142332,6144,Morse_(Buenos_Aires),200,OK,Requests 1-14,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),591,0,361
+1622067142332,599,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-14,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),591,0,361
+1622067142947,5529,Morse_(Buenos_Aires)-1,200,OK,Requests 1-14,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2154,0,1084
+1622067142330,6200,Cristianismo,200,OK,Requests 1-20,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,623,0,378
+1622067142330,623,Cristianismo-0,301,TLS Redirect,Requests 1-20,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,623,0,378
+1622067142955,5575,Cristianismo-1,200,OK,Requests 1-20,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1385,0,1075
+1622067142333,6795,Cristianismo,200,OK,Requests 1-4,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,600,0,362
+1622067142333,600,Cristianismo-0,301,TLS Redirect,Requests 1-4,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,600,0,362
+1622067142942,6186,Cristianismo-1,200,OK,Requests 1-4,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1399,0,1088
+1622067142332,6896,Cristianismo,200,OK,Requests 1-7,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,597,0,363
+1622067142332,600,Cristianismo-0,301,TLS Redirect,Requests 1-7,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,597,0,363
+1622067142944,6284,Cristianismo-1,200,OK,Requests 1-7,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1993,0,1087
+1622067142333,8835,Cristianismo,200,OK,Requests 1-11,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,597,0,362
+1622067142333,599,Cristianismo-0,301,TLS Redirect,Requests 1-11,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,597,0,362
+1622067142940,8228,Cristianismo-1,200,OK,Requests 1-11,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2007,0,1094
+1622067142330,9809,Cristianismo,200,OK,Requests 1-8,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,599,0,365
+1622067142330,602,Cristianismo-0,301,TLS Redirect,Requests 1-8,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,599,0,365
+1622067142941,9198,Cristianismo-1,200,OK,Requests 1-8,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1975,0,1093
+1622067142331,9915,Cristianismo,200,OK,Requests 1-17,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,615,0,364
+1622067142331,615,Cristianismo-0,301,TLS Redirect,Requests 1-17,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,615,0,364
+1622067142948,9298,Cristianismo-1,200,OK,Requests 1-17,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,5427,0,4523
+1622067142332,12068,Morse_(Buenos_Aires),200,OK,Requests 1-15,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),612,0,363
+1622067142332,612,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-15,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),612,0,363
+1622067142947,11453,Morse_(Buenos_Aires)-1,200,OK,Requests 1-15,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3206,0,2334
+1622067142331,12880,Esquimal,200,OK,Requests 1-13,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,593,0,364
+1622067142331,600,Esquimal-0,301,TLS Redirect,Requests 1-13,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,593,0,364
+1622067142950,12261,Esquimal-1,200,OK,Requests 1-13,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,6710,0,3710
+1622067142333,12915,Argentina,200,OK,Requests 1-9,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,596,0,361
+1622067142333,598,Argentina-0,301,TLS Redirect,Requests 1-9,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,596,0,361
+1622067142949,12299,Argentina-1,200,OK,Requests 1-9,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,5481,0,4841
+1622067142331,13696,Esquimal,200,OK,Requests 1-16,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,631,0,377
+1622067142331,631,Esquimal-0,301,TLS Redirect,Requests 1-16,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,631,0,377
+1622067142963,13064,Esquimal-1,200,OK,Requests 1-16,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,5304,0,5043
+1622067142331,13899,Morse_(Buenos_Aires),200,OK,Requests 1-2,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),602,0,363
+1622067142331,602,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-2,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),602,0,363
+1622067142943,13287,Morse_(Buenos_Aires)-1,200,OK,Requests 1-2,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),6326,0,5419
+1622067142331,14501,Argentina,200,OK,Requests 1-1,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,622,0,377
+1622067142331,622,Argentina-0,301,TLS Redirect,Requests 1-1,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,622,0,377
+1622067142955,13877,Argentina-1,200,OK,Requests 1-1,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,8115,0,6689
+1622067153061,4056,Morse_(Buenos_Aires),200,OK,Requests 1-5,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2178,0,1233
+1622067153061,2178,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-5,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2178,0,1233
+1622067155240,1877,Morse_(Buenos_Aires)-1,200,OK,Requests 1-5,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1613,0,730
+1622067151844,5662,Dolina,200,OK,Requests 1-19,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1186,0,257
+1622067151844,1186,Dolina-0,301,TLS Redirect,Requests 1-19,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1186,0,257
+1622067153031,4475,Dolina-1,200,OK,Requests 1-19,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3728,0,2927
+1622067154130,3804,Morse_(Buenos_Aires),200,OK,Requests 1-4,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1159,0,268
+1622067154130,1159,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-4,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1159,0,268
+1622067155290,2644,Morse_(Buenos_Aires)-1,200,OK,Requests 1-4,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1468,0,776
+1622067156175,3105,Morse_(Buenos_Aires),200,OK,Requests 1-11,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),441,0,216
+1622067156175,441,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-11,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),441,0,216
+1622067156616,2664,Morse_(Buenos_Aires)-1,200,OK,Requests 1-11,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),895,0,672
+1622067153270,7050,Esquimal,200,OK,Requests 1-10,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,2534,0,2304
+1622067153270,2534,Esquimal-0,301,TLS Redirect,Requests 1-10,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,2534,0,2304
+1622067155804,4516,Esquimal-1,200,OK,Requests 1-10,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2538,0,1707
+1622067154230,6516,Esquimal,200,OK,Requests 1-7,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1498,0,1252
+1622067154230,1498,Esquimal-0,301,TLS Redirect,Requests 1-7,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1498,0,1252
+1622067155728,5018,Esquimal-1,200,OK,Requests 1-7,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2931,0,1827
+1622067153480,7844,Cristianismo,200,OK,Requests 1-14,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1294,0,307
+1622067153480,1294,Cristianismo-0,301,TLS Redirect,Requests 1-14,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1294,0,307
+1622067154775,6549,Cristianismo-1,200,OK,Requests 1-14,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4312,0,3637
+1622067142332,19104,Argentina,200,OK,Requests 1-18,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,591,0,363
+1622067142332,599,Argentina-0,301,TLS Redirect,Requests 1-18,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,591,0,363
+1622067142941,18495,Argentina-1,200,OK,Requests 1-18,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1915,0,1089
+1622067153532,8867,Argentina,200,OK,Requests 1-20,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1507,0,1255
+1622067153532,1507,Argentina-0,301,TLS Redirect,Requests 1-20,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1507,0,1255
+1622067155040,7359,Argentina-1,200,OK,Requests 1-20,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1041,0,805
+1622067159404,3092,Dolina,200,OK,Requests 1-15,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1537,0,1264
+1622067159404,1537,Dolina-0,301,TLS Redirect,Requests 1-15,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1537,0,1264
+1622067160942,1554,Dolina-1,200,OK,Requests 1-15,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,898,0,682
+1622067161029,1706,Morse_(Buenos_Aires),200,OK,Requests 1-16,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),460,0,233
+1622067161029,460,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-16,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),460,0,233
+1622067161490,1245,Morse_(Buenos_Aires)-1,200,OK,Requests 1-16,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),921,0,695
+1622067157248,6059,Dolina,200,OK,Requests 1-17,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,514,0,254
+1622067157248,514,Dolina-0,301,TLS Redirect,Requests 1-17,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,514,0,254
+1622067157764,5543,Dolina-1,200,OK,Requests 1-17,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,5051,0,4439
+1622067142331,21264,Argentina,200,OK,Requests 1-6,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,592,0,364
+1622067142331,600,Argentina-0,301,TLS Redirect,Requests 1-6,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,592,0,364
+1622067142941,20654,Argentina-1,200,OK,Requests 1-6,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,5190,0,1090
+1622067162508,2413,Esquimal,200,OK,Requests 1-19,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,409,0,200
+1622067162508,409,Esquimal-0,301,TLS Redirect,Requests 1-19,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,409,0,200
+1622067162918,2003,Esquimal-1,200,OK,Requests 1-19,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,862,0,650
+1622067160251,4786,Esquimal,200,OK,Requests 1-9,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1423,0,1223
+1622067160251,1423,Esquimal-0,301,TLS Redirect,Requests 1-9,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1423,0,1223
+1622067161675,3362,Esquimal-1,200,OK,Requests 1-9,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2564,0,2337
+1622067162936,2283,Esquimal,200,OK,Requests 1-4,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,412,0,207
+1622067162936,412,Esquimal-0,301,TLS Redirect,Requests 1-4,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,412,0,207
+1622067163349,1870,Esquimal-1,200,OK,Requests 1-4,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1239,0,682
+1622067162119,3649,Esquimal,200,OK,Requests 1-5,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,476,0,262
+1622067162119,476,Esquimal-0,301,TLS Redirect,Requests 1-5,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,476,0,262
+1622067162595,3173,Esquimal-1,200,OK,Requests 1-5,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,889,0,672
+1622067161233,5549,Cristianismo,200,OK,Requests 1-2,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,441,0,228
+1622067161233,441,Cristianismo-0,301,TLS Redirect,Requests 1-2,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,441,0,228
+1622067161675,5107,Cristianismo-1,200,OK,Requests 1-2,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3182,0,2614
+1622067161836,5010,Cristianismo,200,OK,Requests 1-1,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1449,0,1237
+1622067161836,1449,Cristianismo-0,301,TLS Redirect,Requests 1-1,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1449,0,1237
+1622067163285,3561,Cristianismo-1,200,OK,Requests 1-1,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1292,0,726
+1622067157141,11384,Cristianismo,200,OK,Requests 1-8,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1438,0,361
+1622067157141,1438,Cristianismo-0,301,TLS Redirect,Requests 1-8,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1438,0,361
+1622067158581,9944,Cristianismo-1,200,OK,Requests 1-8,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,8145,0,7935
+1622067165322,3213,Esquimal,200,OK,Requests 1-10,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1136,0,233
+1622067165322,1136,Esquimal-0,301,TLS Redirect,Requests 1-10,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1136,0,233
+1622067166459,2076,Esquimal-1,200,OK,Requests 1-10,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,902,0,673
+1622067166438,3107,Dolina,200,OK,Requests 1-18,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,408,0,209
+1622067166438,408,Dolina-0,301,TLS Redirect,Requests 1-18,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,408,0,209
+1622067166846,2699,Dolina-1,200,OK,Requests 1-18,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1826,0,664
+1622067160215,11588,Argentina,200,OK,Requests 1-13,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1435,0,1237
+1622067160215,1435,Argentina-0,301,TLS Redirect,Requests 1-13,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1435,0,1237
+1622067161650,10153,Argentina-1,200,OK,Requests 1-13,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2589,0,2246
+1622067142332,30664,Cristianismo,200,OK,Requests 1-3,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,592,0,363
+1622067142332,599,Cristianismo-0,301,TLS Redirect,Requests 1-3,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,592,0,363
+1622067142944,30052,Cristianismo-1,200,OK,Requests 1-3,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,5656,0,3171
+1622067166326,6674,Argentina,200,OK,Requests 1-14,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,454,0,227
+1622067166326,454,Argentina-0,301,TLS Redirect,Requests 1-14,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,454,0,227
+1622067166780,6220,Argentina-1,200,OK,Requests 1-14,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1724,0,680
+1622067167400,5655,Esquimal,200,OK,Requests 1-20,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1447,0,1227
+1622067167400,1447,Esquimal-0,301,TLS Redirect,Requests 1-20,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1447,0,1227
+1622067168848,4207,Esquimal-1,200,OK,Requests 1-20,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2889,0,2162
+1622067167737,7812,Dolina,200,OK,Requests 1-16,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,474,0,244
+1622067167737,474,Dolina-0,301,TLS Redirect,Requests 1-16,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,474,0,244
+1622067168212,7337,Dolina-1,200,OK,Requests 1-16,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2493,0,729
+1622067168308,7902,Cristianismo,200,OK,Requests 1-17,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,460,0,226
+1622067168308,460,Cristianismo-0,301,TLS Redirect,Requests 1-17,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,460,0,226
+1622067168768,7442,Cristianismo-1,200,OK,Requests 1-17,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4739,0,3253
+1622067167498,10766,Argentina,200,OK,Requests 1-15,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1145,0,241
+1622067167498,1145,Argentina-0,301,TLS Redirect,Requests 1-15,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1145,0,241
+1622067168644,9620,Argentina-1,200,OK,Requests 1-15,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3434,0,3199
+1622067173527,4925,Dolina,200,OK,Requests 1-8,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1224,0,290
+1622067173527,1224,Dolina-0,301,TLS Redirect,Requests 1-8,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1224,0,290
+1622067174751,3701,Dolina-1,200,OK,Requests 1-8,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2473,0,850
+1622067173538,5402,Dolina,200,OK,Requests 1-10,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1498,0,1264
+1622067173538,1498,Dolina-0,301,TLS Redirect,Requests 1-10,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1498,0,1264
+1622067175036,3904,Dolina-1,200,OK,Requests 1-10,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3398,0,2189
+1622067170038,9474,Cristianismo,200,OK,Requests 1-9,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,504,0,238
+1622067170038,504,Cristianismo-0,301,TLS Redirect,Requests 1-9,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,504,0,238
+1622067170543,8969,Cristianismo-1,200,OK,Requests 1-9,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2481,0,2268
+1622067171781,8854,Dolina,200,OK,Requests 1-2,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1493,0,1213
+1622067171781,1493,Dolina-0,301,TLS Redirect,Requests 1-2,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1493,0,1213
+1622067173275,7360,Dolina-1,200,OK,Requests 1-2,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,5576,0,5025
+1622067171847,10947,Cristianismo,200,OK,Requests 1-1,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,470,0,216
+1622067171847,470,Cristianismo-0,301,TLS Redirect,Requests 1-1,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,470,0,216
+1622067172319,10475,Cristianismo-1,200,OK,Requests 1-1,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,7418,0,6546
+1622067170770,12032,Dolina,200,OK,Requests 1-5,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2504,0,2224
+1622067170770,2504,Dolina-0,301,TLS Redirect,Requests 1-5,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,2504,0,2224
+1622067173276,9526,Dolina-1,200,OK,Requests 1-5,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,7205,0,6009
+1622067178001,8054,Cristianismo,200,OK,Requests 1-14,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,490,0,235
+1622067178001,490,Cristianismo-0,301,TLS Redirect,Requests 1-14,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,490,0,235
+1622067178491,7564,Cristianismo-1,200,OK,Requests 1-14,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4782,0,3614
+1622067178057,7999,Cristianismo,200,OK,Requests 1-20,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,445,0,216
+1622067178057,445,Cristianismo-0,301,TLS Redirect,Requests 1-20,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,445,0,216
+1622067178503,7553,Cristianismo-1,200,OK,Requests 1-20,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4509,0,3738
+1622067180551,7492,Morse_(Buenos_Aires),200,OK,Requests 1-16,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1166,0,241
+1622067180551,1166,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-16,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1166,0,241
+1622067181718,6325,Morse_(Buenos_Aires)-1,200,OK,Requests 1-16,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),4698,0,4118
+1622067183942,4327,Morse_(Buenos_Aires),200,OK,Requests 1-10,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1130,0,234
+1622067183942,1130,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-10,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1130,0,234
+1622067185073,3196,Morse_(Buenos_Aires)-1,200,OK,Requests 1-10,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2305,0,1701
+1622067181212,7238,Esquimal,200,OK,Requests 1-17,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,627,0,214
+1622067181212,627,Esquimal-0,301,TLS Redirect,Requests 1-17,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,627,0,214
+1622067181840,6610,Esquimal-1,200,OK,Requests 1-17,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,4922,0,4417
+1622067168597,22474,Argentina,200,OK,Requests 1-6,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,486,0,227
+1622067168597,486,Argentina-0,301,TLS Redirect,Requests 1-6,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,486,0,227
+1622067169084,21987,Argentina-1,200,OK,Requests 1-6,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,7437,0,6477
+1622067177999,13772,Cristianismo,200,OK,Requests 1-3,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,503,0,249
+1622067177999,503,Cristianismo-0,301,TLS Redirect,Requests 1-3,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,503,0,249
+1622067178503,13268,Cristianismo-1,200,OK,Requests 1-3,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2236,0,1646
+1622067164283,29401,Argentina,200,OK,Requests 1-11,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1485,0,1246
+1622067164283,1485,Argentina-0,301,TLS Redirect,Requests 1-11,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1485,0,1246
+1622067165768,27916,Argentina-1,200,OK,Requests 1-11,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3723,0,3079
+1622067184514,9229,Argentina,200,OK,Requests 1-9,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1122,0,238
+1622067184514,1122,Argentina-0,301,TLS Redirect,Requests 1-9,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1122,0,238
+1622067185636,8107,Argentina-1,200,OK,Requests 1-9,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1372,0,700
+1622067176805,17237,Cristianismo,200,OK,Requests 1-13,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,486,0,249
+1622067176805,486,Cristianismo-0,301,TLS Redirect,Requests 1-13,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,486,0,249
+1622067177290,16752,Cristianismo-1,200,OK,Requests 1-13,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,5860,0,3545
+1622067185639,9254,Cristianismo,200,OK,Requests 1-2,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,468,0,230
+1622067185639,468,Cristianismo-0,301,TLS Redirect,Requests 1-2,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,468,0,230
+1622067186108,8785,Cristianismo-1,200,OK,Requests 1-2,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,5798,0,2463
+1622067174548,20429,Argentina,200,OK,Requests 1-18,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1475,0,1242
+1622067174548,1475,Argentina-0,301,TLS Redirect,Requests 1-18,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1475,0,1242
+1622067176024,18953,Argentina-1,200,OK,Requests 1-18,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2726,0,2502
+1622067191058,3929,Morse_(Buenos_Aires),200,OK,Requests 1-20,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1464,0,1238
+1622067191058,1464,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-20,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1464,0,1238
+1622067192524,2463,Morse_(Buenos_Aires)-1,200,OK,Requests 1-20,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2334,0,1546
+1622067191057,4064,Morse_(Buenos_Aires),200,OK,Requests 1-14,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2153,0,1239
+1622067191057,2153,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-14,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2153,0,1239
+1622067193211,1910,Morse_(Buenos_Aires)-1,200,OK,Requests 1-14,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1718,0,941
+1622067193047,4348,Dolina,200,OK,Requests 1-16,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,736,0,217
+1622067193047,736,Dolina-0,301,TLS Redirect,Requests 1-16,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,736,0,217
+1622067193783,3612,Dolina-1,200,OK,Requests 1-16,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1688,0,1446
+1622067187795,10863,Argentina,200,OK,Requests 1-1,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,3123,0,1261
+1622067187795,3123,Argentina-0,301,TLS Redirect,Requests 1-1,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,3123,0,1261
+1622067190919,7739,Argentina-1,200,OK,Requests 1-1,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3314,0,3088
+1622067187802,11450,Esquimal,200,OK,Requests 1-5,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,481,0,240
+1622067187802,481,Esquimal-0,301,TLS Redirect,Requests 1-5,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,481,0,240
+1622067188283,10969,Esquimal-1,200,OK,Requests 1-5,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,6931,0,6703
+1622067196074,3242,Morse_(Buenos_Aires),200,OK,Requests 1-6,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1169,0,225
+1622067196074,1169,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-6,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1169,0,225
+1622067197244,2072,Morse_(Buenos_Aires)-1,200,OK,Requests 1-6,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1757,0,1542
+1622067193454,6034,Dolina,200,OK,Requests 1-17,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,507,0,298
+1622067193454,507,Dolina-0,301,TLS Redirect,Requests 1-17,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,507,0,298
+1622067193961,5527,Dolina-1,200,OK,Requests 1-17,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,4955,0,2242
+1622067198686,3164,Esquimal,200,OK,Requests 1-11,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,420,0,195
+1622067198686,420,Esquimal-0,301,TLS Redirect,Requests 1-11,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,420,0,195
+1622067199107,2743,Esquimal-1,200,OK,Requests 1-11,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1257,0,682
+1622067183266,18601,Cristianismo,200,OK,Requests 1-15,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1943,0,232
+1622067183266,1943,Cristianismo-0,301,TLS Redirect,Requests 1-15,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1943,0,232
+1622067185209,16658,Cristianismo-1,200,OK,Requests 1-15,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4207,0,3624
+1622067196774,5120,Dolina,200,OK,Requests 1-3,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2456,0,2243
+1622067196774,2456,Dolina-0,301,TLS Redirect,Requests 1-3,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,2456,0,2243
+1622067199229,2665,Dolina-1,200,OK,Requests 1-3,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1266,0,712
+1622067193273,9758,Argentina,200,OK,Requests 1-10,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,660,0,451
+1622067193273,660,Argentina-0,301,TLS Redirect,Requests 1-10,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,660,0,451
+1622067193933,9098,Argentina-1,200,OK,Requests 1-10,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,4830,0,3231
+1622067200122,3226,Morse_(Buenos_Aires),200,OK,Requests 1-14,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),481,0,242
+1622067200122,481,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-14,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),481,0,242
+1622067200603,2745,Morse_(Buenos_Aires)-1,200,OK,Requests 1-14,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2431,0,2184
+1622067198745,4904,Esquimal,200,OK,Requests 1-9,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,424,0,203
+1622067198745,424,Esquimal-0,301,TLS Redirect,Requests 1-9,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,424,0,203
+1622067199170,4479,Esquimal-1,200,OK,Requests 1-9,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2652,0,1313
+1622067199044,5244,Cristianismo,200,OK,Requests 1-13,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,427,0,207
+1622067199044,427,Cristianismo-0,301,TLS Redirect,Requests 1-13,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,427,0,207
+1622067199471,4817,Cristianismo-1,200,OK,Requests 1-13,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2589,0,2140
+1622067202395,1953,Esquimal,200,OK,Requests 1-16,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,446,0,226
+1622067202395,446,Esquimal-0,301,TLS Redirect,Requests 1-16,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,446,0,226
+1622067202841,1507,Esquimal-1,200,OK,Requests 1-16,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,897,0,675
+1622067199988,4761,Dolina,200,OK,Requests 1-20,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1146,0,232
+1622067199988,1146,Dolina-0,301,TLS Redirect,Requests 1-20,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1146,0,232
+1622067201134,3615,Dolina-1,200,OK,Requests 1-20,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3117,0,2469
+1622067199894,5034,Esquimal,200,OK,Requests 1-2,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1068,0,224
+1622067199894,1068,Esquimal-0,301,TLS Redirect,Requests 1-2,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1068,0,224
+1622067200963,3965,Esquimal-1,200,OK,Requests 1-2,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3452,0,3238
+1622067169923,35105,Argentina,200,OK,Requests 1-19,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1207,0,235
+1622067169923,1207,Argentina-0,301,TLS Redirect,Requests 1-19,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1207,0,235
+1622067171130,33898,Argentina-1,200,OK,Requests 1-19,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,4651,0,3431
+1622067204254,1772,Morse_(Buenos_Aires),200,OK,Requests 1-5,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),436,0,212
+1622067204254,436,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-5,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),436,0,212
+1622067204690,1336,Morse_(Buenos_Aires)-1,200,OK,Requests 1-5,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),868,0,655
+1622067204317,2002,Dolina,200,OK,Requests 1-6,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,414,0,203
+1622067204317,414,Dolina-0,301,TLS Redirect,Requests 1-6,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,414,0,203
+1622067204731,1588,Dolina-1,200,OK,Requests 1-6,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1010,0,787
+1622067203660,3044,Dolina,200,OK,Requests 1-1,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1426,0,1229
+1622067203660,1426,Dolina-0,301,TLS Redirect,Requests 1-1,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1426,0,1229
+1622067205087,1617,Dolina-1,200,OK,Requests 1-1,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,952,0,707
+1622067208032,2415,Morse_(Buenos_Aires),200,OK,Requests 1-10,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),462,0,235
+1622067208032,462,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-10,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),462,0,235
+1622067208494,1953,Morse_(Buenos_Aires)-1,200,OK,Requests 1-10,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1850,0,732
+1622067204489,6267,Argentina,200,OK,Requests 1-17,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,401,0,200
+1622067204489,401,Argentina-0,301,TLS Redirect,Requests 1-17,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,401,0,200
+1622067204891,5865,Argentina-1,200,OK,Requests 1-17,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,879,0,653
+1622067206852,4974,Esquimal,200,OK,Requests 1-11,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,2475,0,2237
+1622067206852,2475,Esquimal-0,301,TLS Redirect,Requests 1-11,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,2475,0,2237
+1622067209329,2497,Esquimal-1,200,OK,Requests 1-11,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1233,0,691
+1622067142333,69715,Argentina,200,OK,Requests 1-12,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,612,0,361
+1622067142333,612,Argentina-0,301,TLS Redirect,Requests 1-12,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,612,0,361
+1622067142947,69101,Argentina-1,200,OK,Requests 1-12,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,8835,0,7552
+1622067208351,4048,Dolina,200,OK,Requests 1-14,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,464,0,231
+1622067208351,464,Dolina-0,301,TLS Redirect,Requests 1-14,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,464,0,231
+1622067208816,3583,Dolina-1,200,OK,Requests 1-14,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2867,0,2225
+1622067206896,6219,Esquimal,200,OK,Requests 1-3,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,479,0,226
+1622067206896,479,Esquimal-0,301,TLS Redirect,Requests 1-3,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,479,0,226
+1622067207377,5738,Esquimal-1,200,OK,Requests 1-3,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,4693,0,3814
+1622067183453,30224,Argentina,200,OK,Requests 1-8,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,2198,0,1238
+1622067183453,2198,Argentina-0,301,TLS Redirect,Requests 1-8,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,2198,0,1238
+1622067185651,28026,Argentina-1,200,OK,Requests 1-8,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1237,0,696
+1622067209350,5067,Dolina,200,OK,Requests 1-16,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1908,0,223
+1622067209350,1908,Dolina-0,301,TLS Redirect,Requests 1-16,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1908,0,223
+1622067211259,3158,Dolina-1,200,OK,Requests 1-16,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2277,0,1108
+1622067209931,4735,Morse_(Buenos_Aires),200,OK,Requests 1-2,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),441,0,220
+1622067209931,441,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-2,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),441,0,220
+1622067210373,4293,Morse_(Buenos_Aires)-1,200,OK,Requests 1-2,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1417,0,682
+1622067199978,14690,Argentina,200,OK,Requests 1-18,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1115,0,229
+1622067199978,1115,Argentina-0,301,TLS Redirect,Requests 1-18,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1115,0,229
+1622067201094,13574,Argentina-1,200,OK,Requests 1-18,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3464,0,3254
+1622067209291,5999,Dolina,200,OK,Requests 1-13,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,471,0,234
+1622067209291,471,Dolina-0,301,TLS Redirect,Requests 1-13,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,471,0,234
+1622067209763,5527,Dolina-1,200,OK,Requests 1-13,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3808,0,2590
+1622067208652,6720,Dolina,200,OK,Requests 1-9,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,471,0,231
+1622067208652,471,Dolina-0,301,TLS Redirect,Requests 1-9,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,471,0,231
+1622067209123,6249,Dolina-1,200,OK,Requests 1-9,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2893,0,2299
+1622067210031,6070,Cristianismo,200,OK,Requests 1-19,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,438,0,240
+1622067210031,438,Cristianismo-0,301,TLS Redirect,Requests 1-19,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,438,0,240
+1622067210469,5632,Cristianismo-1,200,OK,Requests 1-19,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,953,0,652
+1622067211708,4626,Dolina,200,OK,Requests 1-1,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1473,0,1242
+1622067211708,1473,Dolina-0,301,TLS Redirect,Requests 1-1,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1473,0,1242
+1622067213180,3154,Dolina-1,200,OK,Requests 1-1,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2141,0,703
+1622067209752,7024,Morse_(Buenos_Aires),200,OK,Requests 1-20,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1471,0,1247
+1622067209752,1471,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-20,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1471,0,1247
+1622067211224,5552,Morse_(Buenos_Aires)-1,200,OK,Requests 1-20,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),4523,0,2482
+1622067206869,9910,Argentina,200,OK,Requests 1-15,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,492,0,244
+1622067206869,492,Argentina-0,301,TLS Redirect,Requests 1-15,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,492,0,244
+1622067207363,9416,Argentina-1,200,OK,Requests 1-15,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,4319,0,3648
+1622067211322,6217,Esquimal,200,OK,Requests 1-6,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,656,0,360
+1622067211322,656,Esquimal-0,301,TLS Redirect,Requests 1-6,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,656,0,360
+1622067211978,5561,Esquimal-1,200,OK,Requests 1-6,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,4927,0,1649
+1622067216826,1732,Morse_(Buenos_Aires),200,OK,Requests 1-11,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),418,0,201
+1622067216826,418,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-11,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),418,0,201
+1622067217244,1314,Morse_(Buenos_Aires)-1,200,OK,Requests 1-11,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),888,0,651
+1622067211028,7927,Morse_(Buenos_Aires),200,OK,Requests 1-5,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1864,0,230
+1622067211028,1864,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-5,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1864,0,230
+1622067212892,6063,Morse_(Buenos_Aires)-1,200,OK,Requests 1-5,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),5283,0,4823
+1622067217050,2326,Dolina,200,OK,Requests 1-12,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,405,0,208
+1622067217050,405,Dolina-0,301,TLS Redirect,Requests 1-12,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,405,0,208
+1622067217455,1921,Dolina-1,200,OK,Requests 1-12,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,999,0,721
+1622067217400,2190,Morse_(Buenos_Aires),200,OK,Requests 1-14,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),436,0,204
+1622067217400,436,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-14,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),436,0,204
+1622067217836,1754,Morse_(Buenos_Aires)-1,200,OK,Requests 1-14,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1221,0,660
+1622067215452,4293,Esquimal,200,OK,Requests 1-10,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,499,0,255
+1622067215452,499,Esquimal-0,301,TLS Redirect,Requests 1-10,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,499,0,255
+1622067215952,3793,Esquimal-1,200,OK,Requests 1-10,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2352,0,2133
+1622067170221,49841,Argentina,200,OK,Requests 1-4,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1594,0,1316
+1622067170221,1594,Argentina-0,301,TLS Redirect,Requests 1-4,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1594,0,1316
+1622067171815,48247,Argentina-1,200,OK,Requests 1-4,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2608,0,2075
+1622067215759,5447,Argentina,200,OK,Requests 1-17,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1491,0,359
+1622067215759,1491,Argentina-0,301,TLS Redirect,Requests 1-17,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1491,0,359
+1622067217250,3956,Argentina-1,200,OK,Requests 1-17,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,851,0,645
+1622067219669,4690,Dolina,200,OK,Requests 1-18,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1474,0,220
+1622067219669,1474,Dolina-0,301,TLS Redirect,Requests 1-18,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1474,0,220
+1622067221143,3216,Dolina-1,200,OK,Requests 1-18,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1225,0,1005
+1622067220291,5155,Morse_(Buenos_Aires),200,OK,Requests 1-13,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1454,0,1219
+1622067220291,1454,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-13,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1454,0,1219
+1622067221746,3700,Morse_(Buenos_Aires)-1,200,OK,Requests 1-13,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2641,0,685
+1622067221779,3912,Dolina,200,OK,Requests 1-15,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,417,0,216
+1622067221779,417,Dolina-0,301,TLS Redirect,Requests 1-15,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,417,0,216
+1622067222196,3495,Dolina-1,200,OK,Requests 1-15,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2576,0,2004
+1622067220372,5401,Esquimal,200,OK,Requests 1-9,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1237,0,240
+1622067220372,1237,Esquimal-0,301,TLS Redirect,Requests 1-9,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1237,0,240
+1622067221610,4163,Esquimal-1,200,OK,Requests 1-9,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,901,0,670
+1622067223560,5789,Morse_(Buenos_Aires),200,OK,Requests 1-11,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),863,0,636
+1622067223560,863,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-11,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),863,0,636
+1622067224424,4925,Morse_(Buenos_Aires)-1,200,OK,Requests 1-11,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3129,0,1808
+1622067221101,9370,Cristianismo,200,OK,Requests 1-19,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,550,0,226
+1622067221101,550,Cristianismo-0,301,TLS Redirect,Requests 1-19,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,550,0,226
+1622067221652,8819,Cristianismo-1,200,OK,Requests 1-19,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1228,0,655
+1622067226208,4580,Morse_(Buenos_Aires),200,OK,Requests 1-17,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1140,0,220
+1622067226208,1140,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-17,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1140,0,220
+1622067227349,3439,Morse_(Buenos_Aires)-1,200,OK,Requests 1-17,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3233,0,2050
+1622067222541,8379,Dolina,200,OK,Requests 1-6,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2708,0,1247
+1622067222541,2708,Dolina-0,301,TLS Redirect,Requests 1-6,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,2708,0,1247
+1622067225250,5670,Dolina-1,200,OK,Requests 1-6,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,4300,0,2166
+1622067219418,11501,Cristianismo,200,OK,Requests 1-16,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,2203,0,1225
+1622067219418,2203,Cristianismo-0,301,TLS Redirect,Requests 1-16,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,2203,0,1225
+1622067221621,9298,Cristianismo-1,200,OK,Requests 1-16,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,862,0,659
+1622067219667,11555,Argentina,200,OK,Requests 1-2,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1460,0,222
+1622067219667,1460,Argentina-0,301,TLS Redirect,Requests 1-2,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1460,0,222
+1622067221127,10095,Argentina-1,200,OK,Requests 1-2,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,997,0,782
+1622067224748,6697,Dolina,200,OK,Requests 1-10,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1190,0,245
+1622067224748,1190,Dolina-0,301,TLS Redirect,Requests 1-10,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1190,0,245
+1622067225939,5506,Dolina-1,200,OK,Requests 1-10,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,4892,0,3946
+1622067218679,12967,Argentina,200,OK,Requests 1-8,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1041,0,210
+1622067218679,1041,Argentina-0,301,TLS Redirect,Requests 1-8,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1041,0,210
+1622067219720,11926,Argentina-1,200,OK,Requests 1-8,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2324,0,1932
+1622067218116,13982,Esquimal,200,OK,Requests 1-3,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,2122,0,1229
+1622067218116,2122,Esquimal-0,301,TLS Redirect,Requests 1-3,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,2122,0,1229
+1622067220239,11859,Esquimal-1,200,OK,Requests 1-3,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2038,0,1698
+1622067221777,11686,Argentina,200,OK,Requests 1-20,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,451,0,218
+1622067221777,451,Argentina-0,301,TLS Redirect,Requests 1-20,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,451,0,218
+1622067222228,11235,Argentina-1,200,OK,Requests 1-20,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3243,0,2195
+1622067229362,4133,Morse_(Buenos_Aires),200,OK,Requests 1-18,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1124,0,228
+1622067229362,1124,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-18,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1124,0,228
+1622067230488,3007,Morse_(Buenos_Aires)-1,200,OK,Requests 1-18,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2343,0,1843
+1622067230449,3111,Cristianismo,200,OK,Requests 1-13,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,471,0,239
+1622067230449,471,Cristianismo-0,301,TLS Redirect,Requests 1-13,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,471,0,239
+1622067230920,2640,Cristianismo-1,200,OK,Requests 1-13,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1006,0,740
+1622067225064,8731,Morse_(Buenos_Aires),200,OK,Requests 1-4,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3497,0,3253
+1622067225064,3497,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-4,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3497,0,3253
+1622067228562,5233,Morse_(Buenos_Aires)-1,200,OK,Requests 1-4,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3738,0,3098
+1622067230776,3202,Morse_(Buenos_Aires),200,OK,Requests 1-9,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),446,0,231
+1622067230776,446,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-9,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),446,0,231
+1622067231222,2756,Morse_(Buenos_Aires)-1,200,OK,Requests 1-9,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2336,0,1683
+1622067223958,11331,Esquimal,200,OK,Requests 1-5,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,465,0,238
+1622067223958,465,Esquimal-0,301,TLS Redirect,Requests 1-5,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,465,0,238
+1622067224424,10865,Esquimal-1,200,OK,Requests 1-5,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,8827,0,2734
+1622067234350,2296,Morse_(Buenos_Aires),200,OK,Requests 1-11,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),713,0,446
+1622067234350,713,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-11,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),713,0,446
+1622067235063,1583,Morse_(Buenos_Aires)-1,200,OK,Requests 1-11,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),880,0,660
+1622067224592,12479,Cristianismo,200,OK,Requests 1-14,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,458,0,222
+1622067224592,458,Cristianismo-0,301,TLS Redirect,Requests 1-14,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,458,0,222
+1622067225051,12020,Cristianismo-1,200,OK,Requests 1-14,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,8776,0,7869
+1622067221335,16741,Cristianismo,200,OK,Requests 1-1,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,510,0,300
+1622067221335,510,Cristianismo-0,301,TLS Redirect,Requests 1-1,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,510,0,300
+1622067221845,16231,Cristianismo-1,200,OK,Requests 1-1,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1843,0,651
+1622067235789,2409,Morse_(Buenos_Aires),200,OK,Requests 1-17,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),431,0,214
+1622067235789,431,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-17,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),431,0,214
+1622067236220,1978,Morse_(Buenos_Aires)-1,200,OK,Requests 1-17,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1506,0,952
+1622067230694,7774,Argentina,200,OK,Requests 1-15,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,470,0,241
+1622067230694,470,Argentina-0,301,TLS Redirect,Requests 1-15,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,470,0,241
+1622067231165,7303,Argentina-1,200,OK,Requests 1-15,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1049,0,773
+1622067235920,2659,Esquimal,200,OK,Requests 1-16,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,412,0,204
+1622067235920,412,Esquimal-0,301,TLS Redirect,Requests 1-16,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,412,0,204
+1622067236332,2247,Esquimal-1,200,OK,Requests 1-16,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1355,0,705
+1622067235473,3196,Esquimal,200,OK,Requests 1-19,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,436,0,211
+1622067235473,436,Esquimal-0,301,TLS Redirect,Requests 1-19,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,436,0,211
+1622067235909,2760,Esquimal-1,200,OK,Requests 1-19,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,904,0,665
+1622067236445,2250,Morse_(Buenos_Aires),200,OK,Requests 1-10,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),450,0,224
+1622067236445,450,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-10,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),450,0,224
+1622067236895,1800,Morse_(Buenos_Aires)-1,200,OK,Requests 1-10,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1419,0,805
+1622067235920,3367,Dolina,200,OK,Requests 1-6,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,421,0,204
+1622067235920,421,Dolina-0,301,TLS Redirect,Requests 1-6,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,421,0,204
+1622067236341,2946,Dolina-1,200,OK,Requests 1-6,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2221,0,2004
+1622067236649,3134,Morse_(Buenos_Aires),200,OK,Requests 1-8,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),432,0,215
+1622067236649,432,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-8,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),432,0,215
+1622067237081,2702,Morse_(Buenos_Aires)-1,200,OK,Requests 1-8,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1855,0,1644
+1622067236224,3831,Cristianismo,200,OK,Requests 1-2,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,421,0,202
+1622067236224,421,Cristianismo-0,301,TLS Redirect,Requests 1-2,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,421,0,202
+1622067236645,3410,Cristianismo-1,200,OK,Requests 1-2,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1522,0,793
+1622067238464,2988,Dolina,200,OK,Requests 1-20,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,432,0,204
+1622067238464,432,Dolina-0,301,TLS Redirect,Requests 1-20,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,432,0,204
+1622067238897,2555,Dolina-1,200,OK,Requests 1-20,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1439,0,1199
+1622067238561,3117,Cristianismo,200,OK,Requests 1-13,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,448,0,214
+1622067238561,448,Cristianismo-0,301,TLS Redirect,Requests 1-13,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,448,0,214
+1622067239010,2668,Cristianismo-1,200,OK,Requests 1-13,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1073,0,775
+1622067238496,3202,Morse_(Buenos_Aires),200,OK,Requests 1-18,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1254,0,229
+1622067238496,1254,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-18,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1254,0,229
+1622067239750,1948,Morse_(Buenos_Aires)-1,200,OK,Requests 1-18,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1702,0,716
+1622067237099,4831,Morse_(Buenos_Aires),200,OK,Requests 1-3,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1463,0,1245
+1622067237099,1463,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-3,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1463,0,1245
+1622067238562,3368,Morse_(Buenos_Aires)-1,200,OK,Requests 1-3,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2889,0,1904
+1622067240290,3233,Morse_(Buenos_Aires),200,OK,Requests 1-5,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1162,0,213
+1622067240290,1162,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-5,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1162,0,213
+1622067241452,2071,Morse_(Buenos_Aires)-1,200,OK,Requests 1-5,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2070,0,777
+1622067238979,5724,Argentina,200,OK,Requests 1-9,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,514,0,231
+1622067238979,514,Argentina-0,301,TLS Redirect,Requests 1-9,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,514,0,231
+1622067239493,5210,Argentina-1,200,OK,Requests 1-9,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1041,0,831
+1622067243581,1880,Morse_(Buenos_Aires),200,OK,Requests 1-16,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),505,0,245
+1622067243581,505,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-16,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),505,0,245
+1622067244086,1375,Morse_(Buenos_Aires)-1,200,OK,Requests 1-16,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1062,0,846
+1622067243079,2617,Dolina,200,OK,Requests 1-1,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,444,0,234
+1622067243079,444,Dolina-0,301,TLS Redirect,Requests 1-1,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,444,0,234
+1622067243523,2173,Dolina-1,200,OK,Requests 1-1,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1409,0,1183
+1622067243470,3361,Cristianismo,200,OK,Requests 1-15,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,473,0,227
+1622067243470,473,Cristianismo-0,301,TLS Redirect,Requests 1-15,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,473,0,227
+1622067243944,2887,Cristianismo-1,200,OK,Requests 1-15,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1053,0,797
+1622067243698,4595,Esquimal,200,OK,Requests 1-10,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1148,0,256
+1622067243698,1148,Esquimal-0,301,TLS Redirect,Requests 1-10,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1148,0,256
+1622067244846,3447,Esquimal-1,200,OK,Requests 1-10,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1731,0,690
+1622067242071,6286,Esquimal,200,OK,Requests 1-14,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,466,0,227
+1622067242071,466,Esquimal-0,301,TLS Redirect,Requests 1-14,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,466,0,227
+1622067242539,5818,Esquimal-1,200,OK,Requests 1-14,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3111,0,2393
+1622067165749,82609,Argentina,200,OK,Requests 1-7,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1439,0,1227
+1622067165749,1439,Argentina-0,301,TLS Redirect,Requests 1-7,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1439,0,1227
+1622067167189,81169,Argentina-1,200,OK,Requests 1-7,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3895,0,1592
+1622067241648,6751,Cristianismo,200,OK,Requests 1-11,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,407,0,192
+1622067241648,407,Cristianismo-0,301,TLS Redirect,Requests 1-11,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,407,0,192
+1622067242055,6344,Cristianismo-1,200,OK,Requests 1-11,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3711,0,3260
+1622067246681,3669,Esquimal,200,OK,Requests 1-13,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1232,0,213
+1622067246681,1232,Esquimal-0,301,TLS Redirect,Requests 1-13,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1232,0,213
+1622067247912,2438,Esquimal-1,200,OK,Requests 1-13,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1052,0,758
+1622067244785,5640,Esquimal,200,OK,Requests 1-8,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,487,0,279
+1622067244785,487,Esquimal-0,301,TLS Redirect,Requests 1-8,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,487,0,279
+1622067245272,5153,Esquimal-1,200,OK,Requests 1-8,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3594,0,3351
+1622067243671,7264,Cristianismo,200,OK,Requests 1-19,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1447,0,1239
+1622067243671,1447,Cristianismo-0,301,TLS Redirect,Requests 1-19,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1447,0,1239
+1622067245118,5817,Cristianismo-1,200,OK,Requests 1-19,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2170,0,1554
+1622067246933,4206,Dolina,200,OK,Requests 1-3,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1477,0,1252
+1622067246933,1477,Dolina-0,301,TLS Redirect,Requests 1-3,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1477,0,1252
+1622067248410,2729,Dolina-1,200,OK,Requests 1-3,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2088,0,1240
+1622067250462,5725,Dolina,200,OK,Requests 1-16,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2589,0,2276
+1622067250462,2589,Dolina-0,301,TLS Redirect,Requests 1-16,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,2589,0,2276
+1622067253051,3136,Dolina-1,200,OK,Requests 1-16,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2206,0,1326
+1622067245060,12149,Cristianismo,200,OK,Requests 1-2,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,429,0,202
+1622067245060,429,Cristianismo-0,301,TLS Redirect,Requests 1-2,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,429,0,202
+1622067245489,11720,Cristianismo-1,200,OK,Requests 1-2,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,5208,0,4735
+1622067248524,9588,Cristianismo,200,OK,Requests 1-5,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1045,0,215
+1622067248524,1045,Cristianismo-0,301,TLS Redirect,Requests 1-5,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1045,0,215
+1622067249570,8542,Cristianismo-1,200,OK,Requests 1-5,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1702,0,1467
+1622067253400,4948,Dolina,200,OK,Requests 1-11,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,466,0,232
+1622067253400,466,Dolina-0,301,TLS Redirect,Requests 1-11,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,466,0,232
+1622067253866,4482,Dolina-1,200,OK,Requests 1-11,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3589,0,2240
+1622067253358,5290,Dolina,200,OK,Requests 1-14,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1274,0,262
+1622067253358,1274,Dolina-0,301,TLS Redirect,Requests 1-14,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1274,0,262
+1622067254632,4016,Dolina-1,200,OK,Requests 1-14,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3373,0,2060
+1622067246455,12879,Argentina,200,OK,Requests 1-20,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,439,0,216
+1622067246455,439,Argentina-0,301,TLS Redirect,Requests 1-20,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,439,0,216
+1622067246894,12440,Argentina-1,200,OK,Requests 1-20,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3330,0,2757
+1622067253294,6619,Morse_(Buenos_Aires),200,OK,Requests 1-10,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),515,0,256
+1622067253294,515,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-10,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),515,0,256
+1622067253810,6103,Morse_(Buenos_Aires)-1,200,OK,Requests 1-10,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),5506,0,4716
+1622067243201,17727,Argentina,200,OK,Requests 1-17,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,454,0,231
+1622067243201,454,Argentina-0,301,TLS Redirect,Requests 1-17,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,454,0,231
+1622067243655,17273,Argentina-1,200,OK,Requests 1-17,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1923,0,1685
+1622067255351,5632,Morse_(Buenos_Aires),200,OK,Requests 1-13,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),488,0,227
+1622067255351,488,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-13,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),488,0,227
+1622067255839,5144,Morse_(Buenos_Aires)-1,200,OK,Requests 1-13,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3555,0,2852
+1622067255936,5205,Cristianismo,200,OK,Requests 1-19,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,505,0,264
+1622067255936,505,Cristianismo-0,301,TLS Redirect,Requests 1-19,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,505,0,264
+1622067256441,4700,Cristianismo-1,200,OK,Requests 1-19,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2637,0,2042
+1622067249704,11582,Esquimal,200,OK,Requests 1-9,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1509,0,1257
+1622067249704,1509,Esquimal-0,301,TLS Redirect,Requests 1-9,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1509,0,1257
+1622067251214,10072,Esquimal-1,200,OK,Requests 1-9,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,6610,0,5711
+1622067255426,8847,Dolina,200,OK,Requests 1-8,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,471,0,226
+1622067255426,471,Dolina-0,301,TLS Redirect,Requests 1-8,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,471,0,226
+1622067255897,8376,Dolina-1,200,OK,Requests 1-8,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,6325,0,5403
+1622067256140,8375,Dolina,200,OK,Requests 1-3,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3517,0,3281
+1622067256140,3517,Dolina-0,301,TLS Redirect,Requests 1-3,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,3517,0,3281
+1622067259658,4857,Dolina-1,200,OK,Requests 1-3,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3905,0,3097
+1622067244290,20710,Argentina,200,OK,Requests 1-6,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,621,0,383
+1622067244290,621,Argentina-0,301,TLS Redirect,Requests 1-6,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,621,0,383
+1622067244911,20089,Argentina-1,200,OK,Requests 1-6,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1352,0,636
+1622067251831,13170,Argentina,200,OK,Requests 1-15,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1528,0,1257
+1622067251831,1528,Argentina-0,301,TLS Redirect,Requests 1-15,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1528,0,1257
+1622067253360,11641,Argentina-1,200,OK,Requests 1-15,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,6342,0,5433
+1622067246701,18354,Argentina,200,OK,Requests 1-18,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,506,0,252
+1622067246701,506,Argentina-0,301,TLS Redirect,Requests 1-18,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,506,0,252
+1622067247208,17847,Argentina-1,200,OK,Requests 1-18,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3293,0,1750
+1622067224379,41268,Argentina,200,OK,Requests 1-12,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1951,0,318
+1622067224379,1951,Argentina-0,301,TLS Redirect,Requests 1-12,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1951,0,318
+1622067226331,39316,Argentina-1,200,OK,Requests 1-12,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2287,0,1096
+1622067262211,5103,Morse_(Buenos_Aires),200,OK,Requests 1-2,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2437,0,231
+1622067262211,2437,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-2,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2437,0,231
+1622067264648,2666,Morse_(Buenos_Aires)-1,200,OK,Requests 1-2,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),971,0,718
+1622067261190,6392,Cristianismo,200,OK,Requests 1-16,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,459,0,229
+1622067261190,459,Cristianismo-0,301,TLS Redirect,Requests 1-16,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,459,0,229
+1622067261650,5932,Cristianismo-1,200,OK,Requests 1-16,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3497,0,2999
+1622067263649,5059,Esquimal,200,OK,Requests 1-14,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1218,0,344
+1622067263649,1218,Esquimal-0,301,TLS Redirect,Requests 1-14,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1218,0,344
+1622067264867,3841,Esquimal-1,200,OK,Requests 1-14,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1299,0,650
+1622067250696,20412,Cristianismo,200,OK,Requests 1-1,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,443,0,222
+1622067250696,443,Cristianismo-0,301,TLS Redirect,Requests 1-1,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,443,0,222
+1622067251139,19969,Cristianismo-1,200,OK,Requests 1-1,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3251,0,2534
+1622067253360,20178,Cristianismo,200,OK,Requests 1-7,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1606,0,1271
+1622067253360,1606,Cristianismo-0,301,TLS Redirect,Requests 1-7,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1606,0,1271
+1622067254966,18572,Cristianismo-1,200,OK,Requests 1-7,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4411,0,3232
+1622067265984,7641,Argentina,200,OK,Requests 1-13,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,934,0,226
+1622067265984,934,Argentina-0,301,TLS Redirect,Requests 1-13,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,934,0,226
+1622067266918,6707,Argentina-1,200,OK,Requests 1-13,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,970,0,737
+1622067270001,3666,Dolina,200,OK,Requests 1-6,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,442,0,219
+1622067270001,442,Dolina-0,301,TLS Redirect,Requests 1-6,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,442,0,219
+1622067270443,3224,Dolina-1,200,OK,Requests 1-6,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2948,0,1759
+1622067266287,7552,Esquimal,200,OK,Requests 1-9,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1440,0,1235
+1622067266287,1440,Esquimal-0,301,TLS Redirect,Requests 1-9,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1440,0,1235
+1622067267728,6111,Esquimal-1,200,OK,Requests 1-9,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2268,0,1241
+1622067270002,5759,Dolina,200,OK,Requests 1-15,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2018,0,230
+1622067270002,2018,Dolina-0,301,TLS Redirect,Requests 1-15,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,2018,0,230
+1622067272021,3740,Dolina-1,200,OK,Requests 1-15,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1901,0,1680
+1622067264335,13910,Argentina,200,OK,Requests 1-20,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,492,0,251
+1622067264335,492,Argentina-0,301,TLS Redirect,Requests 1-20,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,492,0,251
+1622067264827,13418,Argentina-1,200,OK,Requests 1-20,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,884,0,674
+1622067270647,8005,Morse_(Buenos_Aires),200,OK,Requests 1-12,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3081,0,1254
+1622067270647,3081,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-12,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3081,0,1254
+1622067273728,4924,Morse_(Buenos_Aires)-1,200,OK,Requests 1-12,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3534,0,2399
+1622067272315,6616,Morse_(Buenos_Aires),200,OK,Requests 1-2,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1155,0,233
+1622067272315,1155,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-2,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1155,0,233
+1622067273470,5461,Morse_(Buenos_Aires)-1,200,OK,Requests 1-2,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3302,0,1300
+1622067265928,13657,Cristianismo,200,OK,Requests 1-17,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,523,0,206
+1622067265928,523,Cristianismo-0,301,TLS Redirect,Requests 1-17,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,523,0,206
+1622067266451,13134,Cristianismo-1,200,OK,Requests 1-17,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,7113,0,6183
+1622067273709,6212,Morse_(Buenos_Aires),200,OK,Requests 1-14,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),431,0,202
+1622067273709,431,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-14,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),431,0,202
+1622067274140,5781,Morse_(Buenos_Aires)-1,200,OK,Requests 1-14,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),4711,0,3843
+1622067278669,2478,Dolina,200,OK,Requests 1-6,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,467,0,234
+1622067278669,467,Dolina-0,301,TLS Redirect,Requests 1-6,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,467,0,234
+1622067279136,2011,Dolina-1,200,OK,Requests 1-6,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,991,0,722
+1622067276112,5459,Dolina,200,OK,Requests 1-1,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1131,0,229
+1622067276112,1131,Dolina-0,301,TLS Redirect,Requests 1-1,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1131,0,229
+1622067277243,4328,Dolina-1,200,OK,Requests 1-1,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3720,0,2559
+1622067269516,12102,Cristianismo,200,OK,Requests 1-3,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,2123,0,1222
+1622067269516,2123,Cristianismo-0,301,TLS Redirect,Requests 1-3,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,2123,0,1222
+1622067271639,9979,Cristianismo-1,200,OK,Requests 1-3,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3648,0,2173
+1622067238795,42861,Argentina,200,OK,Requests 1-4,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,454,0,226
+1622067238795,454,Argentina-0,301,TLS Redirect,Requests 1-4,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,454,0,226
+1622067239249,42407,Argentina-1,200,OK,Requests 1-4,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,4229,0,2748
+1622067263350,18545,Argentina,200,OK,Requests 1-11,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,476,0,243
+1622067263350,476,Argentina-0,301,TLS Redirect,Requests 1-11,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,476,0,243
+1622067263826,18069,Argentina-1,200,OK,Requests 1-11,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2436,0,2218
+1622067278541,3742,Morse_(Buenos_Aires),200,OK,Requests 1-7,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),447,0,221
+1622067278541,447,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-7,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),447,0,221
+1622067278988,3295,Morse_(Buenos_Aires)-1,200,OK,Requests 1-7,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2883,0,2654
+1622067266142,17238,Esquimal,200,OK,Requests 1-19,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1483,0,1246
+1622067266142,1483,Esquimal-0,301,TLS Redirect,Requests 1-19,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1483,0,1246
+1622067267626,15754,Esquimal-1,200,OK,Requests 1-19,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,10344,0,8787
+1622067280763,3115,Dolina,200,OK,Requests 1-15,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1091,0,226
+1622067280763,1091,Dolina-0,301,TLS Redirect,Requests 1-15,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1091,0,226
+1622067281854,2024,Dolina-1,200,OK,Requests 1-15,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1038,0,757
+1622067278627,6360,Cristianismo,200,OK,Requests 1-13,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1245,0,264
+1622067278627,1245,Cristianismo-0,301,TLS Redirect,Requests 1-13,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1245,0,264
+1622067279872,5115,Cristianismo-1,200,OK,Requests 1-13,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3149,0,2927
+1622067278841,6213,Cristianismo,200,OK,Requests 1-9,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,2148,0,1245
+1622067278841,2148,Cristianismo-0,301,TLS Redirect,Requests 1-9,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,2148,0,1245
+1622067280990,4064,Cristianismo-1,200,OK,Requests 1-9,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1870,0,1656
+1622067283246,4319,Cristianismo,200,OK,Requests 1-20,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,437,0,226
+1622067283246,437,Cristianismo-0,301,TLS Redirect,Requests 1-20,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,437,0,226
+1622067283683,3882,Cristianismo-1,200,OK,Requests 1-20,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1854,0,1641
+1622067283654,5120,Dolina,200,OK,Requests 1-12,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,518,0,263
+1622067283654,518,Dolina-0,301,TLS Redirect,Requests 1-12,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,518,0,263
+1622067284172,4602,Dolina-1,200,OK,Requests 1-12,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2869,0,2095
+1622067269275,21119,Argentina,200,OK,Requests 1-8,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1135,0,220
+1622067269275,1135,Argentina-0,301,TLS Redirect,Requests 1-8,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1135,0,220
+1622067270410,19984,Argentina-1,200,OK,Requests 1-8,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3068,0,2093
+1622067283933,6659,Esquimal,200,OK,Requests 1-2,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,448,0,225
+1622067283933,448,Esquimal-0,301,TLS Redirect,Requests 1-2,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,448,0,225
+1622067284381,6211,Esquimal-1,200,OK,Requests 1-2,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3542,0,2769
+1622067286572,5037,Esquimal,200,OK,Requests 1-1,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,560,0,344
+1622067286572,560,Esquimal-0,301,TLS Redirect,Requests 1-1,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,560,0,344
+1622067287133,4476,Esquimal-1,200,OK,Requests 1-1,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1802,0,699
+1622067286897,4758,Esquimal,200,OK,Requests 1-11,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,440,0,225
+1622067286897,440,Esquimal-0,301,TLS Redirect,Requests 1-11,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,440,0,225
+1622067287337,4318,Esquimal-1,200,OK,Requests 1-11,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2163,0,737
+1622067286657,5478,Dolina,200,OK,Requests 1-4,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,475,0,259
+1622067286657,475,Dolina-0,301,TLS Redirect,Requests 1-4,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,475,0,259
+1622067287133,5002,Dolina-1,200,OK,Requests 1-4,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3949,0,3171
+1622067286619,5742,Esquimal,200,OK,Requests 1-3,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,503,0,296
+1622067286619,503,Esquimal-0,301,TLS Redirect,Requests 1-3,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,503,0,296
+1622067287123,5238,Esquimal-1,200,OK,Requests 1-3,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3754,0,2781
+1622067284587,8323,Dolina,200,OK,Requests 1-17,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1459,0,1220
+1622067284587,1459,Dolina-0,301,TLS Redirect,Requests 1-17,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1459,0,1220
+1622067286046,6864,Dolina-1,200,OK,Requests 1-17,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,4915,0,3978
+1622067272583,20577,Argentina,200,OK,Requests 1-16,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1055,0,211
+1622067272583,1055,Argentina-0,301,TLS Redirect,Requests 1-16,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1055,0,211
+1622067273638,19522,Argentina-1,200,OK,Requests 1-16,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1706,0,754
+1622067284923,8445,Argentina,200,OK,Requests 1-14,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,385,0,189
+1622067284923,385,Argentina-0,301,TLS Redirect,Requests 1-14,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,385,0,189
+1622067285309,8059,Argentina-1,200,OK,Requests 1-14,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1713,0,678
+1622067288382,7723,Esquimal,200,OK,Requests 1-19,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1234,0,362
+1622067288382,1234,Esquimal-0,301,TLS Redirect,Requests 1-19,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1234,0,362
+1622067289617,6488,Esquimal-1,200,OK,Requests 1-19,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,4710,0,3897
+1622067270056,26246,Argentina,200,OK,Requests 1-18,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1491,0,1263
+1622067270056,1491,Argentina-0,301,TLS Redirect,Requests 1-18,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1491,0,1263
+1622067271548,24754,Argentina-1,200,OK,Requests 1-18,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3852,0,2153
+1622067289987,7260,Cristianismo,200,OK,Requests 1-13,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,474,0,231
+1622067289987,474,Cristianismo-0,301,TLS Redirect,Requests 1-13,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,474,0,231
+1622067290461,6786,Cristianismo-1,200,OK,Requests 1-13,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2427,0,1422
+1622067287283,10114,Cristianismo,200,OK,Requests 1-7,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1253,0,216
+1622067287283,1253,Cristianismo-0,301,TLS Redirect,Requests 1-7,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1253,0,216
+1622067288536,8861,Cristianismo-1,200,OK,Requests 1-7,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,6358,0,5321
+1622067286147,12474,Argentina,200,OK,Requests 1-6,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,2078,0,1217
+1622067286147,2078,Argentina-0,301,TLS Redirect,Requests 1-6,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,2078,0,1217
+1622067288225,10396,Argentina-1,200,OK,Requests 1-6,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3594,0,2896
+1622067295594,3323,Esquimal,200,OK,Requests 1-2,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1506,0,1269
+1622067295594,1506,Esquimal-0,301,TLS Redirect,Requests 1-2,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1506,0,1269
+1622067297100,1817,Esquimal-1,200,OK,Requests 1-2,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,957,0,724
+1622067295396,4062,Esquimal,200,OK,Requests 1-8,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,461,0,225
+1622067295396,461,Esquimal-0,301,TLS Redirect,Requests 1-8,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,461,0,225
+1622067295857,3601,Esquimal-1,200,OK,Requests 1-8,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2823,0,1749
+1622067292567,7633,Cristianismo,200,OK,Requests 1-20,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,560,0,273
+1622067292567,560,Cristianismo-0,301,TLS Redirect,Requests 1-20,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,560,0,273
+1622067293128,7072,Cristianismo-1,200,OK,Requests 1-20,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4270,0,2802
+1622067296612,3749,Dolina,200,OK,Requests 1-1,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1175,0,251
+1622067296612,1175,Dolina-0,301,TLS Redirect,Requests 1-1,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1175,0,251
+1622067297786,2575,Dolina-1,200,OK,Requests 1-1,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1867,0,936
+1622067298162,3171,Dolina,200,OK,Requests 1-16,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1104,0,221
+1622067298162,1104,Dolina-0,301,TLS Redirect,Requests 1-16,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1104,0,221
+1622067299267,2066,Dolina-1,200,OK,Requests 1-16,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,890,0,683
+1622067297138,4641,Cristianismo,200,OK,Requests 1-4,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,440,0,217
+1622067297138,440,Cristianismo-0,301,TLS Redirect,Requests 1-4,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,440,0,217
+1622067297577,4202,Cristianismo-1,200,OK,Requests 1-4,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1472,0,1242
+1622067290054,11951,Dolina,200,OK,Requests 1-9,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,446,0,222
+1622067290054,446,Dolina-0,301,TLS Redirect,Requests 1-9,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,446,0,222
+1622067290501,11504,Dolina-1,200,OK,Requests 1-9,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,5591,0,3104
+1622067263114,40355,Argentina,200,OK,Requests 1-5,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,2175,0,1262
+1622067263114,2175,Argentina-0,301,TLS Redirect,Requests 1-5,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,2175,0,1262
+1622067265289,38180,Argentina-1,200,OK,Requests 1-5,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2866,0,2010
+1622067296657,6861,Morse_(Buenos_Aires),200,OK,Requests 1-11,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2148,0,1251
+1622067296657,2148,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-11,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2148,0,1251
+1622067298804,4714,Morse_(Buenos_Aires)-1,200,OK,Requests 1-11,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),4714,0,2306
+1622067298369,6725,Dolina,200,OK,Requests 1-14,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,435,0,221
+1622067298369,435,Dolina-0,301,TLS Redirect,Requests 1-14,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,435,0,221
+1622067298804,6290,Dolina-1,200,OK,Requests 1-14,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,4661,0,2902
+1622067293776,11777,Argentina,200,OK,Requests 1-12,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1161,0,231
+1622067293776,1161,Argentina-0,301,TLS Redirect,Requests 1-12,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1161,0,231
+1622067294937,10616,Argentina-1,200,OK,Requests 1-12,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3582,0,3000
+1622067264914,41643,Argentina,200,OK,Requests 1-10,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,411,0,204
+1622067264914,411,Argentina-0,301,TLS Redirect,Requests 1-10,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,411,0,204
+1622067265325,41232,Argentina-1,200,OK,Requests 1-10,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2226,0,1963
+1622067301107,5645,Dolina,200,OK,Requests 1-19,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1650,0,1255
+1622067301107,1650,Dolina-0,301,TLS Redirect,Requests 1-19,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1650,0,1255
+1622067302757,3995,Dolina-1,200,OK,Requests 1-19,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2942,0,2291
+1622067305204,2279,Morse_(Buenos_Aires),200,OK,Requests 1-20,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),421,0,206
+1622067305204,421,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-20,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),421,0,206
+1622067305625,1858,Morse_(Buenos_Aires)-1,200,OK,Requests 1-20,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1857,0,761
+1622067303917,3977,Esquimal,200,OK,Requests 1-2,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1467,0,1263
+1622067303917,1467,Esquimal-0,301,TLS Redirect,Requests 1-2,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1467,0,1263
+1622067305384,2510,Esquimal-1,200,OK,Requests 1-2,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1093,0,868
+1622067297363,10532,Argentina,200,OK,Requests 1-3,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,470,0,214
+1622067297363,470,Argentina-0,301,TLS Redirect,Requests 1-3,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,470,0,214
+1622067297833,10062,Argentina-1,200,OK,Requests 1-3,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3485,0,2379
+1622067288878,19029,Argentina,200,OK,Requests 1-15,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,474,0,250
+1622067288878,474,Argentina-0,301,TLS Redirect,Requests 1-15,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,474,0,250
+1622067289352,18555,Argentina-1,200,OK,Requests 1-15,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2797,0,2005
+1622067302248,6217,Morse_(Buenos_Aires),200,OK,Requests 1-13,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2230,0,436
+1622067302248,2230,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-13,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2230,0,436
+1622067304478,3987,Morse_(Buenos_Aires)-1,200,OK,Requests 1-13,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2571,0,2021
+1622067305362,3195,Morse_(Buenos_Aires),200,OK,Requests 1-1,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),647,0,202
+1622067305362,647,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-1,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),647,0,202
+1622067306009,2548,Morse_(Buenos_Aires)-1,200,OK,Requests 1-1,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1883,0,692
+1622067301304,7923,Dolina,200,OK,Requests 1-18,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,475,0,242
+1622067301304,475,Dolina-0,301,TLS Redirect,Requests 1-18,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,475,0,242
+1622067301779,7448,Dolina-1,200,OK,Requests 1-18,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,5376,0,4230
+1622067303622,6472,Esquimal,200,OK,Requests 1-6,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,2143,0,1249
+1622067303622,2143,Esquimal-0,301,TLS Redirect,Requests 1-6,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,2143,0,1249
+1622067305765,4329,Esquimal-1,200,OK,Requests 1-6,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3015,0,2175
+1622067306334,3791,Dolina,200,OK,Requests 1-16,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,418,0,207
+1622067306334,418,Dolina-0,301,TLS Redirect,Requests 1-16,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,418,0,207
+1622067306752,3373,Dolina-1,200,OK,Requests 1-16,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2475,0,1979
+1622067304459,5718,Esquimal,200,OK,Requests 1-8,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1567,0,1240
+1622067304459,1567,Esquimal-0,301,TLS Redirect,Requests 1-8,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1567,0,1240
+1622067306026,4151,Esquimal-1,200,OK,Requests 1-8,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2364,0,2140
+1622067302398,9203,Argentina,200,OK,Requests 1-7,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,3166,0,2268
+1622067302398,3166,Argentina-0,301,TLS Redirect,Requests 1-7,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,3166,0,2268
+1622067305565,6036,Argentina-1,200,OK,Requests 1-7,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1020,0,803
+1622067306780,4823,Dolina,200,OK,Requests 1-4,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1160,0,236
+1622067306780,1160,Dolina-0,301,TLS Redirect,Requests 1-4,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1160,0,236
+1622067307941,3662,Dolina-1,200,OK,Requests 1-4,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2507,0,1960
+1622067307006,5969,Dolina,200,OK,Requests 1-9,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2455,0,2234
+1622067307006,2455,Dolina-0,301,TLS Redirect,Requests 1-9,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,2455,0,2234
+1622067309462,3513,Dolina-1,200,OK,Requests 1-9,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2142,0,716
+1622067297911,15150,Cristianismo,200,OK,Requests 1-17,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,2521,0,2287
+1622067297911,2521,Cristianismo-0,301,TLS Redirect,Requests 1-17,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,2521,0,2287
+1622067300432,12629,Cristianismo-1,200,OK,Requests 1-17,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3673,0,2310
+1622067310554,2597,Esquimal,200,OK,Requests 1-12,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1050,0,356
+1622067310554,1050,Esquimal-0,301,TLS Redirect,Requests 1-12,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1050,0,356
+1622067311605,1546,Esquimal-1,200,OK,Requests 1-12,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,843,0,642
+1622067311560,2257,Dolina,200,OK,Requests 1-10,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,436,0,226
+1622067311560,436,Dolina-0,301,TLS Redirect,Requests 1-10,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,436,0,226
+1622067311996,1821,Dolina-1,200,OK,Requests 1-10,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1035,0,755
+1622067310096,3848,Morse_(Buenos_Aires),200,OK,Requests 1-14,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1090,0,215
+1622067310096,1090,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-14,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1090,0,215
+1622067311186,2758,Morse_(Buenos_Aires)-1,200,OK,Requests 1-14,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1151,0,913
+1622067308471,5546,Esquimal,200,OK,Requests 1-5,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1032,0,199
+1622067308471,1032,Esquimal-0,301,TLS Redirect,Requests 1-5,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1032,0,199
+1622067309504,4513,Esquimal-1,200,OK,Requests 1-5,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3416,0,3027
+1622067308520,7481,Argentina,200,OK,Requests 1-11,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,449,0,211
+1622067308520,449,Argentina-0,301,TLS Redirect,Requests 1-11,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,449,0,211
+1622067308969,7032,Argentina-1,200,OK,Requests 1-11,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,3794,0,3577
+1622067312485,3552,Dolina,200,OK,Requests 1-20,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,532,0,264
+1622067312485,532,Dolina-0,301,TLS Redirect,Requests 1-20,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,532,0,264
+1622067313017,3020,Dolina-1,200,OK,Requests 1-20,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2270,0,1389
+1622067312896,3651,Esquimal,200,OK,Requests 1-2,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,401,0,194
+1622067312896,401,Esquimal-0,301,TLS Redirect,Requests 1-2,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,401,0,194
+1622067313298,3249,Esquimal-1,200,OK,Requests 1-2,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2714,0,2490
+1622067311754,5116,Morse_(Buenos_Aires),200,OK,Requests 1-19,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),405,0,212
+1622067311754,405,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-19,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),405,0,212
+1622067312159,4711,Morse_(Buenos_Aires)-1,200,OK,Requests 1-19,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3279,0,1722
+1622067312896,4240,Morse_(Buenos_Aires),200,OK,Requests 1-3,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),412,0,194
+1622067312896,412,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-3,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),412,0,194
+1622067313308,3828,Morse_(Buenos_Aires)-1,200,OK,Requests 1-3,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3428,0,3164
+1622067312908,4886,Morse_(Buenos_Aires),200,OK,Requests 1-15,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),428,0,222
+1622067312908,428,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-15,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),428,0,222
+1622067313337,4457,Morse_(Buenos_Aires)-1,200,OK,Requests 1-15,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3109,0,2900
+1622067315127,2887,Esquimal,200,OK,Requests 1-16,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1229,0,375
+1622067315127,1229,Esquimal-0,301,TLS Redirect,Requests 1-16,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1229,0,375
+1622067316356,1658,Esquimal-1,200,OK,Requests 1-16,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,884,0,669
+1622067315095,6294,Argentina,200,OK,Requests 1-6,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1376,0,423
+1622067315095,1376,Argentina-0,301,TLS Redirect,Requests 1-6,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1376,0,423
+1622067316472,4917,Argentina-1,200,OK,Requests 1-6,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,917,0,705
+1622067313466,8798,Dolina,200,OK,Requests 1-13,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,477,0,231
+1622067313466,477,Dolina-0,301,TLS Redirect,Requests 1-13,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,477,0,231
+1622067313943,8321,Dolina-1,200,OK,Requests 1-13,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,5971,0,4096
+1622067318817,3447,Dolina,200,OK,Requests 1-10,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1151,0,227
+1622067318817,1151,Dolina-0,301,TLS Redirect,Requests 1-10,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1151,0,227
+1622067319968,2296,Dolina-1,200,OK,Requests 1-10,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1250,0,702
+1622067314229,8332,Cristianismo,200,OK,Requests 1-18,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,470,0,233
+1622067314229,470,Cristianismo-0,301,TLS Redirect,Requests 1-18,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,470,0,233
+1622067314699,7862,Cristianismo-1,200,OK,Requests 1-18,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2557,0,2136
+1622067316603,5970,Morse_(Buenos_Aires),200,OK,Requests 1-4,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),443,0,232
+1622067316603,443,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-4,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),443,0,232
+1622067317046,5527,Morse_(Buenos_Aires)-1,200,OK,Requests 1-4,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),847,0,637
+1622067313558,9602,Morse_(Buenos_Aires),200,OK,Requests 1-1,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),457,0,239
+1622067313558,457,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-1,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),457,0,239
+1622067314015,9145,Morse_(Buenos_Aires)-1,200,OK,Requests 1-1,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3712,0,3482
+1622067321001,2638,Morse_(Buenos_Aires),200,OK,Requests 1-11,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),432,0,217
+1622067321001,432,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-11,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),432,0,217
+1622067321434,2205,Morse_(Buenos_Aires)-1,200,OK,Requests 1-11,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1875,0,1091
+1622067315179,9198,Cristianismo,200,OK,Requests 1-8,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,2156,0,1252
+1622067315179,2156,Cristianismo-0,301,TLS Redirect,Requests 1-8,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,2156,0,1252
+1622067317336,7041,Cristianismo-1,200,OK,Requests 1-8,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3800,0,717
+1622067318062,6549,Esquimal,200,OK,Requests 1-17,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,2503,0,223
+1622067318062,2503,Esquimal-0,301,TLS Redirect,Requests 1-17,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,2503,0,223
+1622067320566,4045,Esquimal-1,200,OK,Requests 1-17,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3027,0,2448
+1622067317976,7753,Morse_(Buenos_Aires),200,OK,Requests 1-9,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),487,0,255
+1622067317976,487,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-9,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),487,0,255
+1622067318464,7265,Morse_(Buenos_Aires)-1,200,OK,Requests 1-9,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),6070,0,4577
+1622067318945,8027,Dolina,200,OK,Requests 1-14,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,466,0,231
+1622067318945,466,Dolina-0,301,TLS Redirect,Requests 1-14,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,466,0,231
+1622067319412,7560,Dolina-1,200,OK,Requests 1-14,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,4123,0,3135
+1622067321548,7350,Esquimal,200,OK,Requests 1-2,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1192,0,214
+1622067321548,1192,Esquimal-0,301,TLS Redirect,Requests 1-2,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1192,0,214
+1622067322740,6158,Esquimal-1,200,OK,Requests 1-2,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,941,0,711
+1622067319017,10914,Argentina,200,OK,Requests 1-5,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,2181,0,218
+1622067319017,2181,Argentina-0,301,TLS Redirect,Requests 1-5,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,2181,0,218
+1622067321198,8733,Argentina-1,200,OK,Requests 1-5,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2062,0,1513
+1622067327266,3316,Dolina,200,OK,Requests 1-10,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1115,0,231
+1622067327266,1115,Dolina-0,301,TLS Redirect,Requests 1-10,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,1115,0,231
+1622067328383,2199,Dolina-1,200,OK,Requests 1-10,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1506,0,1208
+1622067318152,12625,Cristianismo,200,OK,Requests 1-12,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,461,0,223
+1622067318152,461,Cristianismo-0,301,TLS Redirect,Requests 1-12,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,461,0,223
+1622067318613,12164,Cristianismo-1,200,OK,Requests 1-12,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2889,0,2653
+1622067326390,4550,Dolina,200,OK,Requests 1-6,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2930,0,1252
+1622067326390,2930,Dolina-0,301,TLS Redirect,Requests 1-6,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,2930,0,1252
+1622067329321,1619,Dolina-1,200,OK,Requests 1-6,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,927,0,711
+1622067321039,10028,Cristianismo,200,OK,Requests 1-20,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,418,0,210
+1622067321039,418,Cristianismo-0,301,TLS Redirect,Requests 1-20,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,418,0,210
+1622067321457,9610,Cristianismo-1,200,OK,Requests 1-20,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4215,0,3996
+1622067327576,3528,Morse_(Buenos_Aires),200,OK,Requests 1-4,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1665,0,1306
+1622067327576,1665,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-4,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1665,0,1306
+1622067329242,1862,Morse_(Buenos_Aires)-1,200,OK,Requests 1-4,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1793,0,993
+1622067316603,14587,Argentina,200,OK,Requests 1-7,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,443,0,232
+1622067316603,443,Argentina-0,301,TLS Redirect,Requests 1-7,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,443,0,232
+1622067317046,14144,Argentina-1,200,OK,Requests 1-7,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2072,0,692
+1622067328162,3533,Morse_(Buenos_Aires),200,OK,Requests 1-1,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1468,0,1233
+1622067328162,1468,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-1,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1468,0,1233
+1622067329630,2065,Morse_(Buenos_Aires)-1,200,OK,Requests 1-1,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1383,0,723
+1622067329613,2223,Dolina,200,OK,Requests 1-17,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,433,0,223
+1622067329613,433,Dolina-0,301,TLS Redirect,Requests 1-17,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,433,0,223
+1622067330046,1790,Dolina-1,200,OK,Requests 1-17,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1157,0,949
+1622067327266,5471,Morse_(Buenos_Aires),200,OK,Requests 1-13,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1115,0,231
+1622067327266,1115,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-13,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1115,0,231
+1622067328383,4354,Morse_(Buenos_Aires)-1,200,OK,Requests 1-13,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3366,0,3008
+1622067321870,12553,Argentina,200,OK,Requests 1-19,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,413,0,215
+1622067321870,413,Argentina-0,301,TLS Redirect,Requests 1-19,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,413,0,215
+1622067322284,12139,Argentina-1,200,OK,Requests 1-19,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,4105,0,2490
+1622067322795,12415,Cristianismo,200,OK,Requests 1-15,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,499,0,230
+1622067322795,499,Cristianismo-0,301,TLS Redirect,Requests 1-15,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,499,0,230
+1622067323294,11916,Cristianismo-1,200,OK,Requests 1-15,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2239,0,1662
+1622067328642,8611,Cristianismo,200,OK,Requests 1-11,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1464,0,1234
+1622067328642,1464,Cristianismo-0,301,TLS Redirect,Requests 1-11,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1464,0,1234
+1622067330106,7147,Cristianismo-1,200,OK,Requests 1-11,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4183,0,2518
+1622067329380,7876,Argentina,200,OK,Requests 1-8,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1464,0,1225
+1622067329380,1464,Argentina-0,301,TLS Redirect,Requests 1-8,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1464,0,1225
+1622067330844,6412,Argentina-1,200,OK,Requests 1-8,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,875,0,657
+1622067322137,15405,Cristianismo,200,OK,Requests 1-3,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,436,0,212
+1622067322137,436,Cristianismo-0,301,TLS Redirect,Requests 1-3,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,436,0,212
+1622067322573,14969,Cristianismo-1,200,OK,Requests 1-3,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3690,0,2917
+1622067331975,5773,Dolina,200,OK,Requests 1-14,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,459,0,233
+1622067331975,459,Dolina-0,301,TLS Redirect,Requests 1-14,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,459,0,233
+1622067332433,5315,Dolina-1,200,OK,Requests 1-14,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2286,0,712
+1622067323015,15071,Cristianismo,200,OK,Requests 1-16,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,482,0,259
+1622067323015,482,Cristianismo-0,301,TLS Redirect,Requests 1-16,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,482,0,259
+1622067323497,14589,Cristianismo-1,200,OK,Requests 1-16,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2284,0,1517
+1622067333900,4220,Morse_(Buenos_Aires),200,OK,Requests 1-2,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),460,0,226
+1622067333900,460,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-2,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),460,0,226
+1622067334360,3760,Morse_(Buenos_Aires)-1,200,OK,Requests 1-2,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3242,0,3023
+1622067335778,2961,Esquimal,200,OK,Requests 1-12,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,458,0,235
+1622067335778,458,Esquimal-0,301,TLS Redirect,Requests 1-12,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,458,0,235
+1622067336236,2503,Esquimal-1,200,OK,Requests 1-12,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1720,0,1452
+1622067335582,3339,Esquimal,200,OK,Requests 1-10,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,459,0,241
+1622067335582,459,Esquimal-0,301,TLS Redirect,Requests 1-10,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,459,0,241
+1622067336042,2879,Esquimal-1,200,OK,Requests 1-10,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1941,0,1720
+1622067336068,2925,Morse_(Buenos_Aires),200,OK,Requests 1-20,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),482,0,245
+1622067336068,482,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-20,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),482,0,245
+1622067336550,2443,Morse_(Buenos_Aires)-1,200,OK,Requests 1-20,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1668,0,924
+1622067336836,2319,Dolina,200,OK,Requests 1-17,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,546,0,347
+1622067336836,546,Dolina-0,301,TLS Redirect,Requests 1-17,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,546,0,347
+1622067337383,1772,Dolina-1,200,OK,Requests 1-17,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1013,0,775
+1622067336695,2991,Morse_(Buenos_Aires),200,OK,Requests 1-1,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1523,0,1272
+1622067336695,1523,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-1,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1523,0,1272
+1622067338218,1468,Morse_(Buenos_Aires)-1,200,OK,Requests 1-1,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),953,0,717
+1622067336104,3665,Esquimal,200,OK,Requests 1-4,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1438,0,1233
+1622067336104,1438,Esquimal-0,301,TLS Redirect,Requests 1-4,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1438,0,1233
+1622067337542,2227,Esquimal-1,200,OK,Requests 1-4,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1655,0,721
+1622067334933,4877,Cristianismo,200,OK,Requests 1-5,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,513,0,263
+1622067334933,513,Cristianismo-0,301,TLS Redirect,Requests 1-5,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,513,0,263
+1622067335446,4364,Cristianismo-1,200,OK,Requests 1-5,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2688,0,2465
+1622067336191,5496,Morse_(Buenos_Aires),200,OK,Requests 1-7,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1087,0,223
+1622067336191,1087,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-7,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1087,0,223
+1622067337278,4409,Morse_(Buenos_Aires)-1,200,OK,Requests 1-7,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3797,0,3564
+1622067335940,6038,Morse_(Buenos_Aires),200,OK,Requests 1-6,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1442,0,1230
+1622067335940,1442,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-6,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1442,0,1230
+1622067337382,4596,Morse_(Buenos_Aires)-1,200,OK,Requests 1-6,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3291,0,2893
+1622067339425,2581,Cristianismo,200,OK,Requests 1-19,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,412,0,205
+1622067339425,412,Cristianismo-0,301,TLS Redirect,Requests 1-19,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,412,0,205
+1622067339837,2169,Cristianismo-1,200,OK,Requests 1-19,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,822,0,620
+1622067337738,4900,Esquimal,200,OK,Requests 1-13,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,494,0,231
+1622067337738,494,Esquimal-0,301,TLS Redirect,Requests 1-13,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,494,0,231
+1622067338232,4406,Esquimal-1,200,OK,Requests 1-13,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3708,0,3019
+1622067340211,5806,Argentina,200,OK,Requests 1-15,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,433,0,215
+1622067340211,433,Argentina-0,301,TLS Redirect,Requests 1-15,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,433,0,215
+1622067340644,5373,Argentina-1,200,OK,Requests 1-15,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1317,0,677
+1622067342750,4562,Morse_(Buenos_Aires),200,OK,Requests 1-14,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1108,0,213
+1622067342750,1108,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-14,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1108,0,213
+1622067343858,3454,Morse_(Buenos_Aires)-1,200,OK,Requests 1-14,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2569,0,2120
+1622067342256,5678,Dolina,200,OK,Requests 1-8,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,445,0,219
+1622067342256,445,Dolina-0,301,TLS Redirect,Requests 1-8,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,445,0,219
+1622067342703,5231,Dolina-1,200,OK,Requests 1-8,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,3458,0,3246
+1622067344157,3870,Esquimal,200,OK,Requests 1-17,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1051,0,206
+1622067344157,1051,Esquimal-0,301,TLS Redirect,Requests 1-17,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1051,0,206
+1622067345208,2819,Esquimal-1,200,OK,Requests 1-17,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,863,0,662
+1622067343088,5047,Cristianismo,200,OK,Requests 1-16,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,463,0,215
+1622067343088,463,Cristianismo-0,301,TLS Redirect,Requests 1-16,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,463,0,215
+1622067343552,4583,Cristianismo-1,200,OK,Requests 1-16,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2759,0,2220
+1622067342253,7186,Cristianismo,200,OK,Requests 1-11,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,422,0,204
+1622067342253,422,Cristianismo-0,301,TLS Redirect,Requests 1-11,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,422,0,204
+1622067342677,6762,Cristianismo-1,200,OK,Requests 1-11,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3316,0,3094
+1622067343996,5473,Cristianismo,200,OK,Requests 1-20,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,446,0,215
+1622067343996,446,Cristianismo-0,301,TLS Redirect,Requests 1-20,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,446,0,215
+1622067344442,5027,Cristianismo-1,200,OK,Requests 1-20,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2465,0,1956
+1622067342544,6940,Esquimal,200,OK,Requests 1-3,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1779,0,214
+1622067342544,1779,Esquimal-0,301,TLS Redirect,Requests 1-3,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1779,0,214
+1622067344324,5160,Esquimal-1,200,OK,Requests 1-3,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3743,0,3062
+1622067344688,5239,Esquimal,200,OK,Requests 1-1,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1146,0,226
+1622067344688,1146,Esquimal-0,301,TLS Redirect,Requests 1-1,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1146,0,226
+1622067345834,4093,Esquimal-1,200,OK,Requests 1-1,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3416,0,2373
+1622067346689,3748,Dolina,200,OK,Requests 1-7,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,446,0,224
+1622067346689,446,Dolina-0,301,TLS Redirect,Requests 1-7,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,446,0,224
+1622067347135,3302,Dolina-1,200,OK,Requests 1-7,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,2461,0,2256
+1622067330731,20321,Argentina,200,OK,Requests 1-9,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,416,0,209
+1622067330731,416,Argentina-0,301,TLS Redirect,Requests 1-9,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,416,0,209
+1622067331148,19904,Argentina-1,200,OK,Requests 1-9,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1535,0,629
+1622067347639,3422,Morse_(Buenos_Aires),200,OK,Requests 1-13,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1929,0,250
+1622067347639,1929,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-13,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1929,0,250
+1622067349568,1493,Morse_(Buenos_Aires)-1,200,OK,Requests 1-13,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),935,0,673
+1622067344812,7974,Cristianismo,200,OK,Requests 1-5,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,452,0,231
+1622067344812,452,Cristianismo-0,301,TLS Redirect,Requests 1-5,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,452,0,231
+1622067345264,7522,Cristianismo-1,200,OK,Requests 1-5,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4695,0,4239
+1622067343742,9133,Morse_(Buenos_Aires),200,OK,Requests 1-12,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),469,0,247
+1622067343742,469,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-12,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),469,0,247
+1622067344212,8663,Morse_(Buenos_Aires)-1,200,OK,Requests 1-12,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3322,0,2186
+1622067347009,6036,Morse_(Buenos_Aires),200,OK,Requests 1-19,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1113,0,225
+1622067347009,1113,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-19,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1113,0,225
+1622067348122,4923,Morse_(Buenos_Aires)-1,200,OK,Requests 1-19,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),4120,0,2923
+1622067346980,7756,Cristianismo,200,OK,Requests 1-6,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1142,0,229
+1622067346980,1142,Cristianismo-0,301,TLS Redirect,Requests 1-6,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1142,0,229
+1622067348122,6614,Cristianismo-1,200,OK,Requests 1-6,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,4380,0,3076
+1622067327563,27692,Argentina,200,OK,Requests 1-18,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1666,0,1318
+1622067327563,1666,Argentina-0,301,TLS Redirect,Requests 1-18,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1666,0,1318
+1622067329229,26026,Argentina-1,200,OK,Requests 1-18,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2560,0,2340
+1622067343923,11609,Argentina,200,OK,Requests 1-10,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1466,0,1254
+1622067343923,1466,Argentina-0,301,TLS Redirect,Requests 1-10,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1466,0,1254
+1622067345389,10143,Argentina-1,200,OK,Requests 1-10,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1746,0,677
+1622067344771,10818,Cristianismo,200,OK,Requests 1-4,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1117,0,232
+1622067344771,1117,Cristianismo-0,301,TLS Redirect,Requests 1-4,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1117,0,232
+1622067345889,9700,Cristianismo-1,200,OK,Requests 1-4,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2422,0,2193
+1622067354439,3019,Morse_(Buenos_Aires),200,OK,Requests 1-11,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),457,0,225
+1622067354439,457,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-11,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),457,0,225
+1622067354897,2561,Morse_(Buenos_Aires)-1,200,OK,Requests 1-11,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1243,0,659
+1622067351018,7314,Argentina,200,OK,Requests 1-15,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1484,0,1224
+1622067351018,1484,Argentina-0,301,TLS Redirect,Requests 1-15,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1484,0,1224
+1622067352502,5830,Argentina-1,200,OK,Requests 1-15,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1731,0,975
+1622067354928,3460,Morse_(Buenos_Aires),200,OK,Requests 1-1,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),438,0,221
+1622067354928,438,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-1,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),438,0,221
+1622067355366,3022,Morse_(Buenos_Aires)-1,200,OK,Requests 1-1,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2762,0,1897
+1622067352312,6280,Morse_(Buenos_Aires),200,OK,Requests 1-14,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),473,0,248
+1622067352312,473,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-14,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),473,0,248
+1622067352785,5807,Morse_(Buenos_Aires)-1,200,OK,Requests 1-14,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),5100,0,3264
+1622067353028,5601,Morse_(Buenos_Aires),200,OK,Requests 1-17,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),448,0,222
+1622067353028,448,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-17,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),448,0,222
+1622067353477,5152,Morse_(Buenos_Aires)-1,200,OK,Requests 1-17,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),4467,0,3552
+1622067352934,7369,Cristianismo,200,OK,Requests 1-8,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1505,0,1228
+1622067352934,1505,Cristianismo-0,301,TLS Redirect,Requests 1-8,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1505,0,1228
+1622067354439,5864,Cristianismo-1,200,OK,Requests 1-8,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3649,0,3416
+1622067354469,5863,Cristianismo,200,OK,Requests 1-20,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,460,0,233
+1622067354469,460,Cristianismo-0,301,TLS Redirect,Requests 1-20,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,460,0,233
+1622067354930,5402,Cristianismo-1,200,OK,Requests 1-20,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2440,0,704
+1622067357786,2895,Esquimal,200,OK,Requests 1-5,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,440,0,240
+1622067357786,440,Esquimal-0,301,TLS Redirect,Requests 1-5,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,440,0,240
+1622067358226,2455,Esquimal-1,200,OK,Requests 1-5,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1851,0,646
+1622067354485,6773,Esquimal,200,OK,Requests 1-3,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,3503,0,3270
+1622067354485,3503,Esquimal-0,301,TLS Redirect,Requests 1-3,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,3503,0,3270
+1622067357989,3269,Esquimal-1,200,OK,Requests 1-3,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,2370,0,2148
+1622067358046,3860,Morse_(Buenos_Aires),200,OK,Requests 1-19,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),404,0,203
+1622067358046,404,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-19,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),404,0,203
+1622067358450,3456,Morse_(Buenos_Aires)-1,200,OK,Requests 1-19,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2359,0,2128
+1622067357875,5368,Morse_(Buenos_Aires),200,OK,Requests 1-12,text,true,,55749,292,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),445,0,224
+1622067357875,445,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-12,,true,,620,146,20,20,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),445,0,224
+1622067358321,4922,Morse_(Buenos_Aires)-1,200,OK,Requests 1-12,text,true,,55129,146,20,20,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),4829,0,3665
+1622067359738,5602,Cristianismo,200,OK,Requests 1-6,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,432,0,231
+1622067359738,432,Cristianismo-0,301,TLS Redirect,Requests 1-6,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,432,0,231
+1622067360171,5169,Cristianismo-1,200,OK,Requests 1-6,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,1243,0,662
+1622067356052,9647,Cristianismo,200,OK,Requests 1-9,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1481,0,1244
+1622067356052,1481,Cristianismo-0,301,TLS Redirect,Requests 1-9,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1481,0,1244
+1622067357534,8165,Cristianismo-1,200,OK,Requests 1-9,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,2987,0,1996
+1622067355438,10288,Cristianismo,200,OK,Requests 1-7,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1203,0,238
+1622067355438,1203,Cristianismo-0,301,TLS Redirect,Requests 1-7,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1203,0,238
+1622067356642,9084,Cristianismo-1,200,OK,Requests 1-7,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,7013,0,4980
+1622067360589,5154,Esquimal,200,OK,Requests 1-4,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,1454,0,1223
+1622067360589,1454,Esquimal-0,301,TLS Redirect,Requests 1-4,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,1454,0,1223
+1622067362043,3700,Esquimal-1,200,OK,Requests 1-4,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1541,0,1322
+1622067356062,9694,Argentina,200,OK,Requests 1-13,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1143,0,227
+1622067356062,1143,Argentina-0,301,TLS Redirect,Requests 1-13,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1143,0,227
+1622067357205,8551,Argentina-1,200,OK,Requests 1-13,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,1233,0,1021
+1622067363334,2707,Esquimal,200,OK,Requests 1-15,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,428,0,222
+1622067363334,428,Esquimal-0,301,TLS Redirect,Requests 1-15,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,428,0,222
+1622067363762,2279,Esquimal-1,200,OK,Requests 1-15,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,1593,0,1011
+1622067360255,5966,Esquimal,200,OK,Requests 1-18,text,true,,94291,268,20,20,https://es.wikipedia.org/wiki/Esquimal,438,0,216
+1622067360255,438,Esquimal-0,301,TLS Redirect,Requests 1-18,,true,,608,134,20,20,http://es.wikipedia.org/wiki/Esquimal,438,0,216
+1622067360693,5528,Esquimal-1,200,OK,Requests 1-18,text,true,,93683,134,20,20,https://es.wikipedia.org/wiki/Esquimal,3725,0,2934
+1622067343122,23177,Argentina,200,OK,Requests 1-2,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1089,0,219
+1622067343122,1089,Argentina-0,301,TLS Redirect,Requests 1-2,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1089,0,219
+1622067344212,22087,Argentina-1,200,OK,Requests 1-2,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2144,0,1592
+1622067360533,6327,Cristianismo,200,OK,Requests 1-10,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1840,0,231
+1622067360533,1840,Cristianismo-0,301,TLS Redirect,Requests 1-10,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1840,0,231
+1622067362374,4486,Cristianismo-1,200,OK,Requests 1-10,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,3243,0,3026
+1622067365334,2639,Dolina,200,OK,Requests 1-20,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,417,0,207
+1622067365334,417,Dolina-0,301,TLS Redirect,Requests 1-20,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,417,0,207
+1622067365752,2221,Dolina-1,200,OK,Requests 1-20,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,1502,0,1276
+1622067365308,2828,Dolina,200,OK,Requests 1-8,text,true,,82366,284,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,436,0,221
+1622067365308,436,Dolina-0,301,TLS Redirect,Requests 1-8,,true,,616,142,20,20,http://es.wikipedia.org/wiki/Alejandro_Dolina,436,0,221
+1622067365745,2391,Dolina-1,200,OK,Requests 1-8,text,true,,81750,142,20,20,https://es.wikipedia.org/wiki/Alejandro_Dolina,892,0,667
+1622067363594,8308,Argentina,200,OK,Requests 1-14,text,true,,1599400,270,20,20,https://es.wikipedia.org/wiki/Argentina,1173,0,239
+1622067363594,1173,Argentina-0,301,TLS Redirect,Requests 1-14,,true,,609,135,20,20,http://es.wikipedia.org/wiki/Argentina,1173,0,239
+1622067364768,7134,Argentina-1,200,OK,Requests 1-14,text,true,,1598791,135,20,20,https://es.wikipedia.org/wiki/Argentina,2394,0,2181
+1622067363631,8782,Cristianismo,200,OK,Requests 1-17,text,true,,385760,276,20,20,https://es.wikipedia.org/wiki/Cristianismo,1829,0,214
+1622067363631,1829,Cristianismo-0,301,TLS Redirect,Requests 1-17,,true,,612,138,20,20,http://es.wikipedia.org/wiki/Cristianismo,1829,0,214
+1622067365460,6953,Cristianismo-1,200,OK,Requests 1-17,text,true,,385148,138,20,20,https://es.wikipedia.org/wiki/Cristianismo,899,0,676
+1622067363390,9079,Cristianismo,200,OK,Requests 1-1,text,true,,385760,276,19,19,https://es.wikipedia.org/wiki/Cristianismo,2456,0,2253
+1622067363390,2456,Cristianismo-0,301,TLS Redirect,Requests 1-1,,true,,612,138,19,19,http://es.wikipedia.org/wiki/Cristianismo,2456,0,2253
+1622067365846,6623,Cristianismo-1,200,OK,Requests 1-1,text,true,,385148,138,19,19,https://es.wikipedia.org/wiki/Cristianismo,1871,0,1277
+1622067366260,6271,Esquimal,200,OK,Requests 1-3,text,true,,94291,268,18,18,https://es.wikipedia.org/wiki/Esquimal,438,0,222
+1622067366260,438,Esquimal-0,301,TLS Redirect,Requests 1-3,,true,,608,134,18,18,http://es.wikipedia.org/wiki/Esquimal,438,0,222
+1622067366698,5833,Esquimal-1,200,OK,Requests 1-3,text,true,,93683,134,18,18,https://es.wikipedia.org/wiki/Esquimal,1228,0,709
+1622067353136,20663,Argentina,200,OK,Requests 1-16,text,true,,1599400,270,17,17,https://es.wikipedia.org/wiki/Argentina,2145,0,1253
+1622067353136,2145,Argentina-0,301,TLS Redirect,Requests 1-16,,true,,609,135,17,17,http://es.wikipedia.org/wiki/Argentina,2145,0,1253
+1622067355282,18517,Argentina-1,200,OK,Requests 1-16,text,true,,1598791,135,17,17,https://es.wikipedia.org/wiki/Argentina,3550,0,3332
+1622067370341,5167,Morse_(Buenos_Aires),200,OK,Requests 1-6,text,true,,55749,292,16,16,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1469,0,313
+1622067370341,1469,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-6,,true,,620,146,16,16,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),1469,0,313
+1622067371811,3697,Morse_(Buenos_Aires)-1,200,OK,Requests 1-6,text,true,,55129,146,16,16,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),2144,0,1527
+1622067366908,8803,Argentina,200,OK,Requests 1-19,text,true,,1599400,270,15,15,https://es.wikipedia.org/wiki/Argentina,1077,0,215
+1622067366908,1077,Argentina-0,301,TLS Redirect,Requests 1-19,,true,,609,135,15,15,http://es.wikipedia.org/wiki/Argentina,1077,0,215
+1622067367984,7727,Argentina-1,200,OK,Requests 1-19,text,true,,1598791,135,15,15,https://es.wikipedia.org/wiki/Argentina,2671,0,1401
+1622067370757,5639,Dolina,200,OK,Requests 1-13,text,true,,82366,284,14,14,https://es.wikipedia.org/wiki/Alejandro_Dolina,622,0,274
+1622067370757,622,Dolina-0,301,TLS Redirect,Requests 1-13,,true,,616,142,14,14,http://es.wikipedia.org/wiki/Alejandro_Dolina,622,0,274
+1622067371379,5017,Dolina-1,200,OK,Requests 1-13,text,true,,81750,142,14,14,https://es.wikipedia.org/wiki/Alejandro_Dolina,2215,0,1214
+1622067371299,6176,Morse_(Buenos_Aires),200,OK,Requests 1-2,text,true,,55749,292,13,13,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),643,0,266
+1622067371299,643,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-2,,true,,620,146,13,13,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),643,0,266
+1622067371942,5533,Morse_(Buenos_Aires)-1,200,OK,Requests 1-2,text,true,,55129,146,13,13,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),3828,0,3566
+1622067365684,11823,Cristianismo,200,OK,Requests 1-5,text,true,,385760,276,12,12,https://es.wikipedia.org/wiki/Cristianismo,470,0,232
+1622067365684,470,Cristianismo-0,301,TLS Redirect,Requests 1-5,,true,,612,138,12,12,http://es.wikipedia.org/wiki/Cristianismo,470,0,232
+1622067366154,11353,Cristianismo-1,200,OK,Requests 1-5,text,true,,385148,138,12,12,https://es.wikipedia.org/wiki/Cristianismo,4189,0,2963
+1622067368244,9310,Esquimal,200,OK,Requests 1-12,text,true,,94291,268,11,11,https://es.wikipedia.org/wiki/Esquimal,460,0,227
+1622067368244,460,Esquimal-0,301,TLS Redirect,Requests 1-12,,true,,608,134,11,11,http://es.wikipedia.org/wiki/Esquimal,460,0,227
+1622067368704,8850,Esquimal-1,200,OK,Requests 1-12,text,true,,93683,134,11,11,https://es.wikipedia.org/wiki/Esquimal,5106,0,3627
+1622067370727,6899,Esquimal,200,OK,Requests 1-7,text,true,,94291,268,10,10,https://es.wikipedia.org/wiki/Esquimal,1594,0,1325
+1622067370727,1594,Esquimal-0,301,TLS Redirect,Requests 1-7,,true,,608,134,10,10,http://es.wikipedia.org/wiki/Esquimal,1594,0,1325
+1622067372321,5305,Esquimal-1,200,OK,Requests 1-7,text,true,,93683,134,10,10,https://es.wikipedia.org/wiki/Esquimal,3726,0,3005
+1622067371222,6502,Morse_(Buenos_Aires),200,OK,Requests 1-18,text,true,,55749,292,9,9,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),676,0,291
+1622067371222,676,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-18,,true,,620,146,9,9,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),676,0,291
+1622067371898,5826,Morse_(Buenos_Aires)-1,200,OK,Requests 1-18,text,true,,55129,146,9,9,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),4419,0,2188
+1622067370700,7338,Dolina,200,OK,Requests 1-9,text,true,,82366,284,8,8,https://es.wikipedia.org/wiki/Alejandro_Dolina,1564,0,288
+1622067370700,1564,Dolina-0,301,TLS Redirect,Requests 1-9,,true,,616,142,8,8,http://es.wikipedia.org/wiki/Alejandro_Dolina,1564,0,288
+1622067372264,5774,Dolina-1,200,OK,Requests 1-9,text,true,,81750,142,8,8,https://es.wikipedia.org/wiki/Alejandro_Dolina,2082,0,1111
+1622067372973,5351,Dolina,200,OK,Requests 1-20,text,true,,82366,284,7,7,https://es.wikipedia.org/wiki/Alejandro_Dolina,549,0,276
+1622067372973,549,Dolina-0,301,TLS Redirect,Requests 1-20,,true,,616,142,7,7,http://es.wikipedia.org/wiki/Alejandro_Dolina,549,0,276
+1622067373522,4802,Dolina-1,200,OK,Requests 1-20,text,true,,81750,142,7,7,https://es.wikipedia.org/wiki/Alejandro_Dolina,4094,0,3067
+1622067371860,6465,Morse_(Buenos_Aires),200,OK,Requests 1-10,text,true,,55749,292,7,7,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),552,0,287
+1622067371860,552,Morse_(Buenos_Aires)-0,301,TLS Redirect,Requests 1-10,,true,,620,146,7,7,http://es.wikipedia.org/wiki/Morse_(Buenos_Aires),552,0,287
+1622067372412,5913,Morse_(Buenos_Aires)-1,200,OK,Requests 1-10,text,true,,55129,146,7,7,https://es.wikipedia.org/wiki/Morse_(Buenos_Aires),5194,0,4022
+1622067376902,3936,Cristianismo,200,OK,Requests 1-14,text,true,,385760,276,5,5,https://es.wikipedia.org/wiki/Cristianismo,964,0,706
+1622067376902,964,Cristianismo-0,301,TLS Redirect,Requests 1-14,,true,,612,138,5,5,http://es.wikipedia.org/wiki/Cristianismo,964,0,706
+1622067377867,2971,Cristianismo-1,200,OK,Requests 1-14,text,true,,385148,138,5,5,https://es.wikipedia.org/wiki/Cristianismo,1421,0,1094
+1622067362460,18699,Cristianismo,200,OK,Requests 1-11,text,true,,385760,276,4,4,https://es.wikipedia.org/wiki/Cristianismo,1182,0,229
+1622067362460,1182,Cristianismo-0,301,TLS Redirect,Requests 1-11,,true,,612,138,4,4,http://es.wikipedia.org/wiki/Cristianismo,1182,0,229
+1622067363642,17517,Cristianismo-1,200,OK,Requests 1-11,text,true,,385148,138,4,4,https://es.wikipedia.org/wiki/Cristianismo,5624,0,5384
+1622067373136,8200,Cristianismo,200,OK,Requests 1-8,text,true,,385760,276,3,3,https://es.wikipedia.org/wiki/Cristianismo,2190,0,1264
+1622067373136,2190,Cristianismo-0,301,TLS Redirect,Requests 1-8,,true,,612,138,3,3,http://es.wikipedia.org/wiki/Cristianismo,2190,0,1264
+1622067375326,6010,Cristianismo-1,200,OK,Requests 1-8,text,true,,385148,138,3,3,https://es.wikipedia.org/wiki/Cristianismo,3611,0,3216
+1622067371041,16776,Argentina,200,OK,Requests 1-15,text,true,,1599400,270,2,2,https://es.wikipedia.org/wiki/Argentina,1476,0,1257
+1622067371041,1476,Argentina-0,301,TLS Redirect,Requests 1-15,,true,,609,135,2,2,http://es.wikipedia.org/wiki/Argentina,1476,0,1257
+1622067372518,15299,Argentina-1,200,OK,Requests 1-15,text,true,,1598791,135,2,2,https://es.wikipedia.org/wiki/Argentina,3210,0,1600
+1622067370744,18275,Argentina,200,OK,Requests 1-4,text,true,,1599400,270,1,1,https://es.wikipedia.org/wiki/Argentina,1314,0,287
+1622067370744,1315,Argentina-0,301,TLS Redirect,Requests 1-4,,true,,609,135,1,1,http://es.wikipedia.org/wiki/Argentina,1314,0,287
+1622067372059,16960,Argentina-1,200,OK,Requests 1-4,text,true,,1598791,135,1,1,https://es.wikipedia.org/wiki/Argentina,3310,0,1740
